@@ -1,0 +1,17 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Mục tiêu của các chuyến đi kỹ năng sinh tồn tại Trường Quốc tế Bắc Mỹ - SNA là trang bị học sinh những kỹ năng của công dân toàn cầu thế kỉ 21, đặc biệt là khả năng giải quyết vấn đề và tư duy phản biện, kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Mục tiêu của các chuyến đi kỹ năng sinh tồn là cung cấp cho học sinh các kỹ năng, kiến thức và thuộc tính cá nhân cần thiết để họ có thể thành công trong cuộc sống, bao gồm việc học hỏi thông qua truy vấn, nghiên cứu trong và ngoài các môn học, sử dụng thư viện, học cách sử dụng nhiều vật liệu, khám phá những kiến thức cơ bản của Mỹ thuật, thỏa thích sáng tạo, và sử dụng các thiết bị điện tử hiện đại.  Mục tiêu của các chuyến đi kỹ năng sinh tồn là để cung cấp cho học sinh những kiến thức và kỹ năng cần thiết để sống một cuộc sống cân bằng và hạnh phúc, bao gồm cả các kỹ năng sinh tồn như nấu ăn, sử dụng các đồ dùng cá nhân, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện trong khu nội trú, dịch vụ y tế 24/24, v.v.  Mục tiêu của các chuyến đi kỹ năng sinh tồn là xây dựng đội ngũ, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý, rèn luyện thể chất, nhận thức về cộng đồng, tôn trọng thiên nhiên và tự học và thư giãn. Thời gian của chuyến đi kỹ năng sinh tồn là từ 2 đến 4 ngày.  Mục tiêu của các chuyến đi kỹ năng sinh tồn là phát triển kỹ năng xã hội và cảm xúc, tư duy quốc tế, thái độ và cách sắp xếp việc học để có những hành động và kỹ năng ngôn ngữ mang tính tư duy, phù hợp, khai sáng cho học sinh. Chương trình bao gồm các chủ đề như: thụ đắc ngôn ngữ, ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế.
+
+
+CÂU HỎI: Mục tiêu của các chuyến đi kỹ năng sinh tồn là gì?
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chuyến đi kỹ năng sinh tồn tại Trường Quốc tế Bắc Mỹ - SNA cung cấp các kỹ năng, kiến thức và thuộc tính cá nhân cần thiết cho học sinh để thành công trong cuộc sống, bao gồm các kỹ năng sinh tồn, thông qua truy vấn, sáng tạo, sử dụng các thiết bị điện tử, xây dựng đội ngũ, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý v.v. Thời gian của chuyến đi là 2-4 ngày.

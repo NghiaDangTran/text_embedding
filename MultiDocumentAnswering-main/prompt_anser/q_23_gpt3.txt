@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Thư viện của trường cung cấp những thể loại sách bao gồm các chương trình học tập chính, chương trình ngoại khóa phong phú, các kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro. Ngoài ra, còn có các sách chuẩn bị cho học sinh trở thành những người biết hợp tác, đóng góp một cách tích cực và hiệu quả, cũng như các sách truyền cảm hứng và giúp học sinh tự phát triển bản thân.  Thư viện của trường cung cấp những thể loại sách đa dạng, bao gồm các sách về Chương trình học Quốc tế, Công nghệ thông tin, Mỹ thuật, Hóa học và Sinh học, và nhiều thể loại khác.  Thư viện trường cung cấp các thể loại sách bao gồm các nhóm chủ đề chung của chương trình PYP (Primary Years Programme), MYP (Middle Years Programme) và DP (Diploma Programme), bao gồm các môn học như ngôn ngữ, ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế.  Thư viện của trường cung cấp các thể loại sách bao gồm sách về các môn học chuyên ngành, các tài liệu tham khảo, sách giản trong các lĩnh vực như nghệ thuật, văn học, khoa học, lịch sử, kinh tế, chính trị, kỹ năng sống, kỹ năng làm việc nhóm, và nhiều thể loại khác.  Thư viện trường cung cấp nhiều loại sách bao gồm sách chuyên ngành, sách văn học, sách tham khảo, sách kỹ năng sống, sách kỹ năng lập trình và sách học ngoại ngữ.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Thư viện của trường cung cấp những thể loại sách nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Thư viện của trường cung cấp những thể loại sách bao gồm các chương trình học tập chính, ngoại khóa, kỹ năng lãnh đạo, giao tiếp, tư duy phản biện và khả năng chấp nhận rủi ro, các sách chuẩn bị cho học sinh, các sách truyền cảm hứng và phát triển bản thân, sách về Chương trình học Quốc tế, Công nghệ thông tin, Mỹ thuật, Hóa học và Sinh học, và các thể loại sách chuyên ngành, tham khảo, kỹ năng sống, lập trình và học ngoại ngữ.

@@ -1,0 +1,23 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+kế. Học sinh cũng được yêu cầu học ít nhất ba môn học nhưng không quá bốn môn ở trình độ cao, trong khi các môn còn lại được học ở trình độ chuẩn.
+
+
+CÂU HỎI: Hiệu trưởng Trường Quốc tế Bắc Mỹ có tầm nhìn gì về việc học của học sinh?
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Hiệu trưởng Trường Quốc tế Bắc Mỹ có tầm nhìn về việc học của học sinh là tạo ra một hệ sinh thái giáo dục toàn diện, sáng tạo và đẳng cấp; đảm bảo sức khỏe và an toàn cho học sinh; cung cấp nhiều cơ hội học tập, giải trí và tham gia các sự kiện; hỗ trợ học sinh bằng việc có giám sát viên nhiều kinh nghiệm; và đảm bảo sự chăm sóc và hỗ trợ tốt nhất cho các học sinh. Chương trình học của học sinh bao gồm các nhóm chủ đề và môn học như ngôn ngữ, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết. Hiệu trưởng cũng có tầm nhìn cho chương trình Tú tài Quốc tế Khối Tiểu học (PYP) để đảm bảo rằng học sinh có thể trang bị kiến thức, khái niệm, kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết để thành công trong hiện tại và tương lai.
+
+=========
+
+
+
+Hiệu trưởng Trường Quốc tế Bắc Mỹ yêu cầu học sinh học ít nhất ba môn học nhưng không quá bốn môn ở trình độ cao, các môn còn lại được học ở trình độ chuẩn.

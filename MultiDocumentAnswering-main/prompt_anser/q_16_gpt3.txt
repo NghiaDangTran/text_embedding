@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Vâng, Trường Quốc tế Bắc Mỹ là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP. Hiện Trường đang trong quá trình hoàn thành những bước cuối cùng của báo cáo đánh giá để được công nhận bởi WASC - Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ, và đã được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS).  Đúng, Trường Quốc tế Bắc Mỹ hiện là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP, đó là Chương trình PYP PRIMARY YEARS PROGRAMME, mục đích của chương trình này là cung cấp kiến thức, khái niệm, kỹ năng, các thuộc tính cá nhân và khả năng hành động mà tất cả những học sinh nhỏ tuổi cần trang bị để thành công, ngay bây giờ và cả tương lai. Để đạt được mục tiêu này, Trường Quốc tế Bắc Mỹ cung cấp cho học sinh những cơ sở vật chất và các khu vực chức năng khác như thể thao, sáng tạo, nghệ thuật, công nghệ, bao gồm: Bể bơi rộng 25m với 6 làn, Phòng Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng mỹ thuật, Phòng Golf 3D, Phòng Y tế và Thư viện Tiểu học và Trung học có nhiều thể loại, độ khó khác nhau đáp ứng đa dạng sở thích, nhu cầu của học sinh.  Đúng, Trường Quốc tế Bắc Mỹ hiện là ứng viên cho Chương trình Tú tài Quốc tế Khối Tiểu học/Trung học Cơ sở/Chương trình DP. Trường này đã trở thành ứng viên chương trình PYP (Primary Years Programme) cho học sinh từ 5 đến 11 tuổi, MYP (Middle Years Programme) cho học sinh từ 11 đến 16 tuổi và DP (Diploma Programme) cho học sinh từ 16 đến 19 tuổi. Chương trình PYP cung cấp nền tảng lý tưởng cho trẻ em trở thành những người thành công và không ngừng học hỏi bằng cách phát triển sự độc lập về kỹ năng xã hội và cảm xúc. Chương trình MYP bao gồm tám nhóm chủ đề và yêu cầu học sinh học tối thiểu 50 giờ giảng dạy cho mỗi nhóm môn học trong mỗi năm học. Chương trình DP cung cấp kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học.  Không, Trường Quốc tế Bắc Mỹ hiện không ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP. Tuy nhiên, trường này đã thành lập một khu nội trú đáp ứng tiêu chuẩn quốc tế cho học sinh sống ở ngoài TP.HCM. Khu nội trú SNA có 24 phòng bao gồm phòng khách, phòng ăn, bếp, phòng giặt, phòng tắm, phòng ngủ. Ngoài ra, trường còn tổ chức các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. để giáo dục học sinh về sự quan tâm và chia sẻ với cộng đồng.  Không, Trường Quốc tế Bắc Mỹ hiện không là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP. Tập đoàn giáo dục Nguyễn Hoàng của Trường Quốc tế Bắc Mỹ cung cấp dịch vụ giáo dục từ mầm non đến tiến sĩ, bao gồm hội nhập quốc tế, song ngữ quốc tế đến và quốc tế hoàn toàn, và có mục tiêu trở thành thương hiệu giáo dục uy tín trong khu vực và thế giới.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ hiện là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP đúng không?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ hiện là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP bao gồm PYP, MYP và DP. Trường còn cung cấp cơ sở vật chất và khu vực chức năng khác như thể thao, sáng tạo, nghệ thuật, công nghệ. Tuy nhiên, trường không là ứng viên cho Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP.

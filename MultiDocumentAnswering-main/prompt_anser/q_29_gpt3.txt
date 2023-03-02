@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP từ 3 đến 12 tuổi. Chương trình cung cấp các kiến thức, khái niệm, kỹ năng và thuộc tính cá nhân cần thiết để học sinh có thể thành công hiện nay và trong tương lai.  Trường Quốc tế Bắc Mỹ - SNA là ứng viên của chương trình Tiểu học (PYP) của IB và học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP từ khi họ bước vào trường.  Trong chương trình PYP, học sinh cần học một ngôn ngữ bổ sung từ 7 tuổi. Chương trình MYP và DP cũng yêu cầu học sinh học thêm một môn học nghệ thuật hoặc môn học thứ hai trong các nhóm môn khác, các môn học được chia theo trình độ cao hoặc trình độ chuẩn.  Học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP từ khi bắt đầu cấp 3.  Học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP từ khi bắt đầu tham gia các lớp học tại Trường Nguyễn Hoàng.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Từ bao lâu, học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Học sinh cần học một ngôn ngữ bổ sung theo chương trình PYP từ khi bắt đầu cấp 3, theo chương trình MYP và DP cần học thêm một môn học nghệ thuật hoặc môn học thứ hai trong các nhóm môn khác.

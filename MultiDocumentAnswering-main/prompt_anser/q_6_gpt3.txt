@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các chương trình học tập chính, chương trình ngoại khóa phong phú, tinh thần của giáo viên, nhân viên và cộng đồng trường, cũng như nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các hoạt động giáo dục và học thuật đa dạng như chương trình học Quốc tế, thí nghiệm vật lý, hóa học, sinh học, công nghệ thông tin, mỹ thuật, thể thao, sáng tạo, nghệ thuật và các hoạt động khác. Đồng thời, trường cũng là ứng viên cho chương trình Tú tài Quốc tế Khối Tiểu học (PYP), một chương trình đặc biệt dành cho học sinh từ 3-12 tuổi.  Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các hoạt động như các CLB Bóng đá, Bóng rổ, Dance; các chuyến đi trải nghiệm; các chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn; và khu nội trú đáp ứng tiêu chuẩn quốc tế cho học sinh sống ở ngoài TP.HCM.  Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các hoạt động như cung cấp các đồ dùng cá nhân như vỏ nệm, vỏ gối, chăn; tổ chức các hoạt động chủ đề hàng tuần và hàng tháng để nâng cao kỹ năng sống của học sinh; cung cấp dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh; tổ chức các sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên; có giáo viên để hỗ trợ học sinh học tập vào buổi tối; có lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn.  Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các chương trình giáo dục như PYP (Primary Years Programme), MYP (Middle Years Programme) và DP (Diploma Programme). Chương trình PYP cung cấp nền tảng lý tưởng để trẻ em trở thành những người thành công và không ngừng học hỏi bằng cách phát triển sự độc lập về kỹ năng xã hội và cảm xúc, tư duy quốc tế và khả năng hoạt động hiệu quả trong thế giới. Chương trình MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. Chương trình DP cung cấp cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai, nhằm phát triển trí tuệ, xã hội, cảm xúc và thể chất của học sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA có cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua những gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA cố gắng truyền cảm hứng và giúp học sinh tự phát triển bản thân thông qua các hoạt động giáo dục như các chương trình học Quốc tế, các hoạt động thể chất, các hoạt động nội trú, các đồ dùng cá nhân, các hoạt động hàng tuần và hàng tháng, các dịch vụ y tế, các sự kiện, giáo viên hỗ trợ và lịch trình chi tiết, cũng như các chương trình PYP, MYP và DP.

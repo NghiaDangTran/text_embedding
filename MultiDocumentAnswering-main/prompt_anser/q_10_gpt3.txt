@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Các cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra tại Trường Quốc tế Bắc Mỹ - SNA, một trường đã được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) và đang trong quá trình hoàn thành những bước cuối cùng của báo cáo đánh giá để được công nhận bởi WASC - Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ.  Cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra tại Cơ sở SNA Him Lam, với 100 phòng gồm 73 phòng học và 17 phòng chức năng, cùng các phòng thí nghiệm vật lý, hóa học và sinh học, phòng công nghệ thông tin, thư viện, phòng mỹ thuật, bể bơi, nhà thi đấu đa năng, phòng y tế và sân bóng đá.  Cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra tại Trường Quốc tế Bắc Mỹ, ứng dụng các chương trình PYP, MYP và DP để trẻ em trở thành những người thành công và không ngừng học hỏi.  Những cuộc họp và chia sẻ thông tin về quá trình tuyển sinh sẽ diễn ra tại Văn phòng Tư vấn và Tuyển sinh của Trường Nguyễn Hoàng địa chỉ Đường số 20, KDC Him Lam, Nam Sài Gòn, Bình Chánh, TP. HCM. Để biết thêm thông tin về Tuyển sinh, hoặc để sắp xếp một chuyến thăm trường, vui lòng liên hệ với Số điện thoại: +84 28 730 197 99 hoặc Hotline: 0964 466 014.  Các cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra trong khu nội trú của Trường Quốc tế Bắc Mỹ, cách trường 150m, có 24 phòng và được trang bị tiện nghi hiện đại bao gồm máy tính, TV, sách/tạp chí, bàn ghế, ghế dài và tủ lạnh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Những cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra ở đâu?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Cuộc họp và chia sẻ thông tin về quá trình này sẽ diễn ra tại Trường Quốc tế Bắc Mỹ - SNA, Văn phòng Tư vấn và Tuyển sinh của Trường Nguyễn Hoàng và trong khu nội trú của trường, cách trường 150m.

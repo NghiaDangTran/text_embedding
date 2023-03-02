@@ -1,0 +1,5 @@
+Sử dụng đoạn văn sau để cung cấp 10 câu hỏi liên quan tới đoạn văn, mỗi câu cần dưới 30 từ:
+
+ĐOẠN VĂN: <<PASSAGE>>
+
+CÂU HỎI:

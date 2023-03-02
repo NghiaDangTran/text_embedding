@@ -1,0 +1,28 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+phụ huynh về tình hình học tập cũng như phúc lợi của học sinh của trường SNA Him Lam là cao.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Bao nhiêu phần trăm phụ huynh trả lời rằng nhà trường cung cấp cho con mình môi trường học tập an toàn và nhận được sự quan tâm, chăm sóc chu đáo từ tất cả giáo viên?Mức độ hài lòng của phụ huynh về tình hình học tập cũng như phúc lợi của học sinh của trường SNA Him Lam?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA Him Lam cung cấp cho học sinh môi trường học tập an toàn và nhận được sự quan tâm, chăm sóc chu đáo từ tất cả giáo viên. Khoảng 95% phụ huynh trả lời rằng nhà trường cung cấp cho con mình môi trường học tập an toàn và nhận được sự quan tâm, chăm sóc chu đáo từ tất cả giáo viên. Mức độ hài lòng của phụ huynh về tình hình học tập cũng như phúc lợi của học sinh của trường SNA Him Lam rất cao. Trường cung cấp các chương trình PYP, MYP và DP nhằm phát triển trí tuệ, xã hội, cảm xúc và thể chất của học sinh.
+
+=========
+
+
+
+Trường SNA Him Lam được đánh giá cao bởi hơn 90% phụ huynh đều hài lòng về môi trường học tập an toàn, sự quan tâm, chăm sóc chu đáo từ giáo viên.

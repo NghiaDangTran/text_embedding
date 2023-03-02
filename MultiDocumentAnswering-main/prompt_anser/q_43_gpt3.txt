@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình Nghệ thuật thị giác của Trường Quốc tế Bắc Mỹ bao gồm các lĩnh vực như nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại, kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Chương trình Nghệ thuật thị giác bao gồm các lĩnh vực như Mỹ thuật, Âm nhạc, Thể thao, Nghiên cứu, Công nghệ thông tin, và Thư viện.  Chương trình Nghệ thuật thị giác của Trường Quốc tế Bắc Mỹ bao gồm tám nhóm chủ đề: ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế, và các chủ đề liên môn. Trong Chương trình Tú tài Quốc tế bậc Trung học phổ thông (IB DP), học sinh phải chọn một môn học trong mỗi năm nhóm môn cung cấp kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học, cũng như một môn trong nhóm môn nghệ thuật hoặc học thêm môn học thứ hai trong các nhóm môn khác.  Chương trình Nghệ thuật thị giác bao gồm các lĩnh vực như: bóng đá, bóng rổ, nhảy cổ điển, các buổi học trải nghiệm, các chuyến đi trải nghiệm, kỹ năng sinh tồn và khu nội trú.  Chương trình Nghệ thuật thị giác của Tập đoàn giáo dục Nguyễn Hoàng bao gồm các lĩnh vực như các đồ dùng cá nhân, nấu nướng, cờ vua, bơi lội, cầu lông, bóng rổ, nhảy dây, các hoạt động chủ đề hàng tuần và hàng tháng, Giáng sinh, Đêm giao thừa và Tiệc tất niên, dịch vụ y tế 24/24, hỗ trợ học tập và Quy trình và Chính sách Tuyển sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chương trình Nghệ thuật thị giác gồm những lĩnh vực nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình Nghệ thuật thị giác bao gồm các lĩnh vực như Mỹ thuật, Âm nhạc, Thể thao, Nghiên cứu, Công nghệ thông tin, Thư viện, Ngôn ngữ và Văn học, Cá nhân và Xã hội, Khoa học và Toán học, Nghệ thuật, Giáo dục Thể chất, Sức khỏe và Thiết kế, và các Chủ đề Liên môn.

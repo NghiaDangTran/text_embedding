@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường SNA Him Lam hiện đang ứng cấp chương trình Tiểu học Quốc tế (PYP) cho học sinh từ 3-12 tuổi, nhằm cung cấp kiến thức, khái niệm, kỹ năng, các thuộc tính cá nhân và khả năng hành động mà tất cả những học sinh nhỏ tuổi cần trang bị để thành công, ngay bây giờ và cả tương lai.  Trường SNA Him Lam hiện đang ứng cấp chương trình PYP (Primary Years Programme) của Tú tài Quốc tế, cung cấp nền tảng lý tưởng để trẻ em trở thành những người thành công và không ngừng học hỏi. PYP bao gồm các chủ đề liên môn, trong đó cả tiếng Việt để thể hiện nét đặc trưng của SNA và để đảm bảo việc giữ và phát huy tinh hoa của văn hóa Việt cùng tiếng mẹ đẻ.  Trường SNA Him Lam đang ứng cấp chương trình Tú Tài Quốc Tế (IB) bao gồm chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP).  Trường SNA Him Lam đang ứng cấp chương trình PYP (Primary Years Programme) của Hội Đồng Giáo Dục Quốc Tế (International Baccalaureate) với nền tảng giáo dục Nhân bản, tinh thần khai phóng và lấy con người làm trung tâm. Chương trình PYP tập trung vào việc phát triển kỹ năng sống cân bằng, kỹ năng học hỏi, các lĩnh vực học thuật và các kỹ năng sống quốc tế.  Trường SNA Him Lam đang ứng cấp chương trình PYP (Primary Years Program) của Câu lạc bộ Giáo dục Quốc tế, nhằm mục đích đào tạo học sinh trẻ thành công về mặt văn hóa, kỹ năng, và kỹ năng giao tiếp; bao gồm các hoạt động như học trên lớp, các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, và các hoạt động từ thiện tại các trại trẻ mồ côi hoặc viện dưỡng lão.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường SNA Him Lam đang ứng cấp chương trình PYP nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA Him Lam đang ứng cấp chương trình Tiểu học Quốc tế (PYP) của Hội Đồng Giáo Dục Quốc Tế (IB), nhằm cung cấp kiến thức, khái niệm, kỹ năng và các thuộc tính cá nhân cần thiết để học sinh từ 3-12 tuổi thành công.

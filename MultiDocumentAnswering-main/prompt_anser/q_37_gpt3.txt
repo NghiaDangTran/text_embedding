@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Học sinh cần học ít nhất 6 môn học trong chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp. Những môn học bao gồm: Ngữ văn, Toán, Vật lý, Hóa học, Sinh học và Lịch sử. Ngoài ra, học sinh còn cần tham gia vào những hoạt động ngoại khóa, như nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và khả năng chấp nhận rủi ro để trang bị những kỹ năng của công dân toàn cầu thế kỉ 21.  Học sinh cần học ít nhất 6 môn học trong chương trình DP, bao gồm Vật lý, Hóa học, Sinh học, Công nghệ thông tin, Mỹ thuật và Thư viện. Ngoài ra, học sinh còn cần các kỹ năng và thuộc tính cá nhân để thành công trong chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp, bao gồm tư duy, nghiên cứu, giao tiếp và sự tự tin.  Học sinh cần học ít nhất ba môn học trong chương trình DP, trong đó có ít nhất một môn học trong nhóm môn nghệ thuật hoặc học thêm môn học thứ hai trong các nhóm môn khác. Trong các môn học, cần ít nhất một môn ở trình độ cao (240 giờ học) và các môn còn lại ở trình độ chuẩn (150 giờ giảng dạy). Điều gì không thể thiếu đối với chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp là việc cung cấp các công cụ, kỹ năng và thông tin cần thiết cho học sinh để giúp họ đạt được thành công trong học tập và sự nghiệp.  Trong chương trình DP, học sinh cần học ít nhất 6 môn học bao gồm lịch sử, địa lý, toán học, văn học, tiếng Anh và một môn thể thao. Điều gì không thể thiếu đối với chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp là các chuyến đi trải nghiệm, bao gồm cả các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn và các chuyến thăm và làm từ thiện tại các trại trẻ mồ côi hoặc viện dưỡng lão.  Học sinh cần học ít nhất 6 môn học trong chương trình DP: Toán, Vật lý, Hóa học, Sinh học, Tiếng Anh và một môn chọn tùy ý. Điều không thể thiếu đối với chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp là các dịch vụ hỗ trợ của SNA: các đồ dùng cá nhân, phòng ăn rộng rãi, phòng khách lớn và ấm cúng, không gian giải trí, các môn thể thao, giám sát viên nhiều kinh nghiệm, kiến thức và hiểu biết về sức khỏe và tinh thần, tâm lý, lịch trình chi tiết, hỗ trợ học tập vào buổi tối, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện, dịch vụ y tế 24/24, tuyển sinh, trải nghiệm cuộc sống học đường tại SNA và chặng đường 20 năm phát triển của Tập đoàn giáo dục Nguyễn Hoàng.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Học sinh cần học ít nhất bao nhiêu môn học trong chương trình DP?Điều gì không thể thiếu đối với chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Học sinh cần học ít nhất 6 môn học trong chương trình Dịch vụ hỗ trợ học sinh tư vấn học tập và hướng nghiệp, bao gồm Toán, Vật lý, Hóa học, Sinh học, Tiếng Anh và một môn chọn tùy ý. Điều không thể thiếu đối với chương trình này là các dịch vụ hỗ trợ của SNA bao gồm các đồ dùng cá nhân, phòng ăn rộng rãi, phòng khách lớn và ấm cúng, không gian giải trí, các môn thể thao, giám sát viên nhiều kinh nghiệm, kiến thức và hiểu biết về sức khỏe và tinh thần, tâm lý, lịch trình chi tiết, hỗ trợ học tập vào buổi tối, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện, dịch vụ y tế 24/24, tuyển sinh, trải nghiệm cuộc sống học đường tại SNA và chặng đường 20 năm phát triển của Tập đoàn giáo dục Nguyễn Hoàng.

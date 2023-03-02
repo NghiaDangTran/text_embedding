@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Những yếu tố chính của Chương trình Tú tài Quốc tế IB của Trường Quốc tế Bắc Mỹ - SNA bao gồm Chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). SNA đang nỗ lực hướng tới việc được chính thức ủy quyền là một trong những trường IB và đã được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS). SNA cũng cung cấp một chương trình ngoại khóa phong phú để trang bị những kỹ năng phù hợp cho học sinh và cam kết đạt tiêu chuẩn cao trong mọi lĩnh vực của đời sống học đường.  Chương trình Tú tài Quốc tế IB là một chương trình học quốc tế dành cho học sinh từ 3 đến 12 tuổi, nó bao gồm các yếu tố chính như: giáo dục thông qua các phương pháp truy vấn, nghiên cứu và môn học; cung cấp các thuộc tính cá nhân, kỹ năng và khả năng hành động; các thiết bị điện tử hiện đại; các phòng thí nghiệm Vật lý, Hóa học và Sinh học; các phòng CNTT; thư viện; phòng mỹ thuật; bể bơi; nhà thi đấu đa năng; phòng y tế và sân bóng đá.  Chương trình Tú tài Quốc tế IB bao gồm 3 chương trình chính: Primary Years Programme (PYP) cho học sinh từ 5 đến 11 tuổi, Middle Years Programme (MYP) cho học sinh từ 11 đến 16 tuổi và Diploma Programme (DP) cho học sinh từ 16 đến 19 tuổi. PYP cung cấp nền tảng lý tưởng để trẻ em trở thành những người thành công và không ngừng học hỏi bằng việc phát triển sự độc lập về kỹ năng xã hội và cảm xúc. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật, các kỳ thi cuối cấp sẽ trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.  Chương trình Tú tài Quốc tế IB của Trường Quốc tế Bắc Mỹ bao gồm các yếu tố chính như: cung cấp trải nghiệm học tập đa dạng, gắn kết công dân toàn cầu; tham gia vào các buổi học trải nghiệm; các chuyến tham quan, khám phá thiên nhiên, rèn luyện thể chất; học về kỹ năng sinh tồn; các chuyến đi trải nghiệm khác; và cung cấp một khu nội trú với 24 phòng đáp ứng tiêu chuẩn quốc tế.  Chương trình Tú tài Quốc tế IB của Nguyễn Hoàng bao gồm các yếu tố chính sau: tầm nhìn và sứ mệnh của Tập đoàn giáo dục Nguyễn Hoàng; trải qua chặng đường 20 năm phát triển; nhiều trường và công ty thành viên; các không gian giải trí cho học sinh nội trú; các môn thể thao; dịch vụ y tế 24/24; các hoạt động chủ đề hàng tuần và hàng tháng; các sự kiện trong khu nội trú; các chuyến tham quan trường; và quy trình và chính sách tuyển sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Những yếu tố chính của Chương trình Tú tài Quốc tế IB là gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình Tú tài Quốc tế IB của Trường Quốc tế Bắc Mỹ bao gồm 3 chương trình chính: Primary Years Programme (PYP) cho học sinh từ 5 đến 11 tuổi, Middle Years Programme (MYP) cho học sinh từ 11 đến 16 tuổi và Diploma Programme (DP) cho học sinh từ 16 đến 19 tuổi. PYP cung cấp nền tảng lý tưởng để trẻ em trở thành những người thành công và không ngừng học hỏi bằng việc phát triển sự độc lập về kỹ năng xã hội và cảm xúc. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật. Chương trình cũng bao gồm các yếu tố như cung cấp trải nghiệm học tập đa dạng, các tham gia vào các buổi học trải nghiệm, các chuyến tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn và cung cấp một khu nội trú với 24 phòng đáp ứng tiêu chuẩn quốc tế.

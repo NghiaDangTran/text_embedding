@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình hòa nhập của SNA được thiết kế dành riêng cho học sinh của Trường Quốc tế Bắc Mỹ, bao gồm cả ba chương trình học tập chính của IB và một chương trình ngoại khóa phong phú, mang đến cơ hội thực sự cho học sinh để nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập, khởi dựng sự nghiệp cũng như cho cuộc sống sau này của học sinh.  Chương trình hòa nhập của SNA được thiết kế dành riêng cho học sinh từ 3-12 tuổi, bao gồm các hoạt động học tập, phúc lợi, giao tiếp, liên lạc với Nhà trường, các thiết bị điện tử hiện đại, phòng thí nghiệm, phòng công nghệ thông tin, thư viện, phòng mỹ thuật, thể thao, sáng tạo, nghệ thuật, công nghệ và chương trình PYP Primary Years Programme.  Chương trình hòa nhập của SNA được thiết kế dành riêng cho học sinh, bao gồm các CLB bóng rổ, dance, các chuyến đi trải nghiệm và khu nội trú đáp ứng tiêu chuẩn quốc tế.  Chương trình hòa nhập của Tập đoàn Giáo dục Nguyễn Hoàng (SNA) được thiết kế dành riêng cho học sinh nội trú. Khu nội trú của SNA có nhiều các không gian giải trí, các hoạt động chủ đề hàng tuần và hàng tháng, và dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh.  Chương trình hòa nhập của SNA được thiết kế dành riêng cho học sinh từ 11 đến 16 tuổi, cung cấp một khung học tập khuyến khích học sinh trở thành những nhà sáng tạo, với tư duy phản biện và khả năng phản xạ. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. Chương trình DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật, các kỳ thi cuối cấp sẽ trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chương trình hòa nhập của SNA được thiết kế dành riêng cho ai?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình hòa nhập của Tập đoàn Giáo dục Nguyễn Hoàng (SNA) được thiết kế dành riêng cho học sinh từ 3-12 tuổi, 11-16 tuổi và 16-19 tuổi, bao gồm các hoạt động học tập, phúc lợi, giao tiếp, liên lạc với Nhà trường, các thiết bị điện tử hiện đại, phòng thí nghiệm, phòng công nghệ thông tin, thư viện, phòng mỹ thuật, thể thao, sáng tạo, nghệ thuật, công nghệ, chương trình PYP Primary Years Programme, CLB bóng rổ, dance, các chuyến đi trải nghiệm và khu nội trú với các không gian giải trí, các hoạt động chủ đề hàng tuần và hàng tháng, và dịch vụ y tế 24/24. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống, và chương trình DP trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.

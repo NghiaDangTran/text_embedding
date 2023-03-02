@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình MYP MIDDLE YEARS PROGRAMME của SNA dành cho học sinh từ 11 đến 16 tuổi.  Chương trình MYP MIDDLE YEARS PROGRAMME dành cho học sinh từ 10-16 tuổi.  Chương trình MYP MIDDLE YEARS PROGRAMME của Trường Quốc tế Bắc Mỹ - SNA dành cho học sinh từ 11 đến 16 tuổi.  Chương trình MYP MIDDLE YEARS PROGRAMME là dành cho học sinh từ 11 đến 16 tuổi.  Chương trình MYP MIDDLE YEARS PROGRAMME là dành cho học sinh từ 11 đến 16 tuổi.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chương trình MYP MIDDLE YEARS PROGRAMME là dành cho học sinh từ tuổi nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình MYP MIDDLE YEARS PROGRAMME của Trường Quốc tế Bắc Mỹ - SNA là dành cho học sinh từ 11 đến 16 tuổi.

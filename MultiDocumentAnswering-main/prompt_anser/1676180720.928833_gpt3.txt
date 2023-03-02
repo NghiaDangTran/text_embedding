@@ -1,0 +1,17 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Tập đoàn Nguyễn Hoàng có 5 giá trị cốt lõi trong sứ mệnh - tầm nhìn của mình: chuẩn bị học sinh trở thành những người biết hợp tác, đóng góp một cách tích cực và hiệu quả; môi trường học tập mà ở đó học sinh là trung tâm; nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro; truyền cảm hứng và giúp học sinh tự phát triển bản thân; và cống hiến những giá trị tốt nhất trong lĩnh vực giáo dục quốc tế.  Sứ mệnh - tầm nhìn của Tập đoàn Nguyễn Hoàng bao gồm các giá trị cốt lõi như: cung cấp các dịch vụ tốt nhất cho học sinh, phát triển học sinh toàn diện thông qua các chương trình học quốc tế, cung cấp cơ sở vật chất hiện đại và tiện nghi, tạo môi trường tốt nhất cho học sinh để học tập, nghiên cứu và phát triển sáng tạo.  Tập đoàn Giáo dục Nguyễn Hoàng có 5 giá trị cốt lõi trong sứ mệnh - tầm nhìn của mình, đó là: khẳng định vị thế số một trong hệ thống giáo dục tư thục tại Việt Nam; tạo dựng hệ sinh thái giáo dục sáng tạo, toàn diện và đẳng cấp; trở thành thương hiệu giáo dục uy tín trong khu vực và thế giới; chọn triết lý giáo dục nhân bản, tinh thần khai phóng, lấy con người làm trung tâm; và đào tạo thế hệ học sinh - sinh viên có trí tuệ, tâm hồn, thể lực và kỹ năng vượt trội để sống hạnh phúc, hội nhập quốc tế và trở thành công dân toàn cầu có trách nhiệm.  Tập đoàn Nguyễn Hoàng có 5 giá trị cốt lõi chính: đa dạng, gắn kết công dân toàn cầu, truyền thống, học tập từ trải nghiệm và các chuyến đi trải nghiệm khác. Đều những giá trị này được áp dụng qua các hoạt động như CLB Bóng đá, CLB Bóng rổ, CLB Dance, chuyến đi học tập, chuyến tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. và khu nội trú.  Tập đoàn Nguyễn Hoàng có 5 giá trị cốt lõi trong sứ mệnh - tầm nhìn của mình, đó là: (1) Phát triển sự độc lập về kỹ năng xã hội và cảm xúc; (2) Khái niệm tư duy quốc tế; (3) Thái độ và cách sắp xếp việc học; (4) Phát triển các kỹ năng giao tiếp, hiểu biết đa văn hóa và tham gia vào các vấn đề toàn cầu; và (5) Trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.
+
+
+CÂU HỎI: Có bao nhiêu giá trị cốt lõi trong sứ mệnh - tầm nhìn của Tập đoàn Nguyễn Hoàng?
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Tập đoàn Nguyễn Hoàng có 5 giá trị cốt lõi trong sứ mệnh - tầm nhìn của mình, đó là: phát triển sự độc lập về kỹ năng xã hội và cảm xúc, khái niệm tư duy quốc tế, thái độ và cách sắp xếp việc học, phát triển các kỹ năng giao tiếp, hiểu biết đa văn hóa và tham gia vào các vấn đề toàn cầu, và trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.

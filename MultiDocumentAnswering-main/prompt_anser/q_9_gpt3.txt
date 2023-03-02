@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục quốc tế, bao gồm việc duy trì và phát triển tiêu chuẩn chất lượng tốt nhất trong mọi khía cạnh của giáo dục quốc tế, chia sẻ kiến thức, thúc đẩy, hoan nghênh những quan điểm đa dạng và được công nhận bởi Hội đồng các trường Quốc tế (CIS). Chương trình Tú tài Quốc tế (DP) sẽ bắt đầu vào đầu năm 2021.  Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục. Để thể hiện nét đặc trưng của SNA và để đảm bảo việc giữ, phát huy tinh hoa của văn hóa Việt cùng tiếng mẹ đẻ, trường hiện là ứng viên cho chương trình Tú tài Quốc tế Khối Trung học (MYP) và Tú tài Quốc tế bậc Trung học phổ thông (IB DP). Chương trình MYP sẽ bắt đầu vào đầu năm học 2021-2022, trong khi chương trình DP sẽ bắt đầu vào đầu năm học 2022-2023.  Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục. Chương trình PYP Primary Years Programme sẽ bắt đầu vào đầu năm 2021 và sẽ bao gồm các khía cạnh như giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, chương trình giảng dạy tiên tiến và cân bằng, cơ sở vật chất, phòng thí nghiệm, thư viện, phòng Công nghệ Thông tin và phòng Mỹ thuật.  Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục, đặc biệt là trong các môn thể thao như bóng đá, bóng rổ và nhảy cùng với các chương trình trải nghiệm học tập ngoài lớp và các chuyến đi tham quan, khám phá thiên nhiên. Chương trình DP sẽ bắt đầu vào đầu năm 2021.  Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục tư thục, bao gồm hội nhập quốc tế, song ngữ quốc tế đến và quốc tế hoàn toàn. Chương trình DP sẽ bắt đầu vào đầu năm 2021.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực gì?Chương trình DP sẽ bắt đầu vào đầu năm nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA đang cố gắng không ngừng để mang lại giá trị tốt nhất trong lĩnh vực giáo dục, đặc biệt là trong các môn thể thao và tư thục. Chương trình PYP Primary Years Programme sẽ bắt đầu vào đầu năm 2021 và chương trình DP sẽ bắt đầu vào đầu năm 2021.

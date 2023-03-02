@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Cơ sở SNA Him Lam cung cấp nhiều phương tiện hỗ trợ tư duy và hành động sáng tạo bao gồm các phòng thí nghiệm Vật lý, Hóa học và Sinh học, Phòng Công nghệ thông tin, Thư viện, Phòng Mỹ thuật và nhiều khu vực chức năng khác như Bể bơi, Phòng Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng Golf 3D, Phòng Y tế. Đồng thời, trường cũng cung cấp chương trình PYP (Primary Years Programme) để hỗ trợ học sinh tiểu học nâng cao tư duy, sáng tạo và thực hiện các bài nghiên cứu và luận văn.  Trường Quốc tế Bắc Mỹ (SNA) cung cấp một số phương tiện để khuyến khích tư duy và hành động sáng tạo của học sinh, bao gồm các chương trình học tập chính, chương trình ngoại khóa phong phú và các kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Chương trình PYP, MYP và DP của Trường Quốc tế Bắc Mỹ cung cấp nền tảng lý tưởng để khuyến khích tư duy và hành động sáng tạo. Chúng cung cấp một khung học tập khuyến khích học sinh trở thành những nhà sáng tạo, với tư duy phản biện và khả năng phản xạ, nhấn mạnh những thử thách trí tuệ, giúp học sinh hiểu biết đa văn hóa và tham gia vào các vấn đề toàn cầu. Chúng cũng cung cấp một số các khóa học từ 8 nhóm chủ đề, bao gồm cả ngôn ngữ, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế, để trang bị cho học sinh các kỹ năng giao tiếp, hiểu biết và tham gia vào các vấn đề toàn cầu.  Tập đoàn Giáo dục Nguyễn Hoàng cung cấp nhiều phương tiện khuyến khích tư duy và hành động sáng tạo bao gồm các đồ dùng cá nhân như vỏ nệm, vỏ gối, chăn; phòng ăn rộng rãi để nấu nướng, chia sẻ các buổi ăn cuối tuần cùng bạn bè và giáo viên; phòng khách lớn và ấm cúng để học sinh gặp gỡ gia đình, bạn bè hoặc khách của mình; khu vực chơi cờ, bóng bàn, cờ vua; các môn thể thao khác như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ; các giám sát viên nhiều kinh nghiệm; lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn; giáo viên hỗ trợ học sinh học tập; các hoạt động chủ đề hàng tuần và hàng tháng để nâng cao kỹ năng sống; các sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên; dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh; các chuyến tham quan trường.  Để khuyến khích tư duy và hành động sáng tạo, SNA cung cấp các phương tiện như CLB Bóng đá, CLB Bóng rổ, CLB Dance, các buổi học trải nghiệm, các chuyến đi trải nghiệm và khu nội trú. Các hoạt động này giúp học sinh phát huy tính trách nhiệm của công dân toàn cầu, phát triển kỹ năng giao tiếp, tư duy phân tích và phản biện, kỹ năng sinh tồn, hiểu về văn hóa, lịch sử và địa lý, rèn luyện thể chất và nhận thức về cộng đồng.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Những phương tiện nào được cung cấp để khuyến khích tư duy và hành động sáng tạo?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Cơ sở SNA Him Lam cung cấp nhiều phương tiện hỗ trợ tư duy và hành động sáng tạo bao gồm các phòng thí nghiệm Vật lý, Hóa học và Sinh học, Phòng Công nghệ thông tin, Thư viện, Phòng Mỹ thuật, Bể bơi, Phòng Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng Golf 3D, Phòng Y tế; chương trình PYP, MYP và DP, 8 nhóm chủ đề, đồ dùng cá nhân, phòng khách, khu vực chơi, các môn thể thao, giám sát viên, lịch trình, giáo viên hỗ trợ, các hoạt động chủ đề hàng tuần/hàng tháng, sự kiện trong khu nội trú, dịch vụ y tế 24/24, các CLB và các buổi học trải nghiệm và chuyến đi trải nghiệm.

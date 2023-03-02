@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trong môi trường an toàn và tin cậy, các học sinh có thể thảo luận về nhiều mối quan tâm khác nhau, bao gồm cả các vấn đề liên quan đến tình hình học tập, phúc lợi của học sinh, công tác giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, chương trình giảng dạy của trường, cơ sở vật chất của trường, phòng thí nghiệm, phòng CNTT, thư viện, phòng mỹ thuật, các khu vực chức năng khác như thể thao, sáng tạo, nghệ thuật, công nghệ, và chương trình PYP Primary Years Programme.  Trong môi trường an toàn và tin cậy của Trường Quốc tế Bắc Mỹ - SNA, các học sinh có thể thảo luận về những mối quan tâm về giáo dục quốc tế, những kỹ năng của công dân toàn cầu, kỹ năng lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Trong môi trường an toàn và tin cậy, các học sinh có thể thảo luận về nhiều vấn đề khác nhau, bao gồm các vấn đề về sức khỏe, tâm lý, tình bạn, học tập, giải trí, sự kiện, tham quan trường, v.v. Khu nội trú của SNA cũng cung cấp các dịch vụ hỗ trợ, bao gồm các đồ dùng cá nhân, phòng ăn rộng rãi, phòng khách lớn và ấm cúng, không gian giải trí, giám sát viên nhiều kinh nghiệm, lịch trình chi tiết, hỗ trợ học tập, hoạt động chủ đề hàng tuần và hàng tháng, sự kiện cụ thể, dịch vụ y tế 24/24, v.v.  Trong môi trường an toàn và tin cậy, học sinh có thể thảo luận về những mối quan tâm như: đa dạng, gắn kết công dân toàn cầu, phát triển kỹ năng giao tiếp, phát triển tư duy phân tích, phản biện, xây dựng đội ngũ, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý, rèn luyện thể chất, nhận thức về cộng đồng, tôn trọng thiên nhiên và tình yêu con người.  Trong môi trường an toàn và tin cậy, các học sinh có thể thảo luận về những chủ đề liên môn của các chương trình giáo dục từ PYP, MYP đến DP, bao gồm các nhóm chủ đề như ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế. Họ cũng có thể thảo luận về các mặt học thuật, các kỳ thi cuối cấp, phát triển trí tuệ, xã hội, cảm xúc và thể chất, các khóa học từ sáu trong số tám nhóm môn học, các môn học trình độ cao hoặc trình độ chuẩn, v.v.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trong môi trường an toàn và tin cậy, các học sinh có thể thảo luận về những mối quan tâm gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Các học sinh có thể thảo luận về những vấn đề liên quan đến tình hình học tập, phúc lợi của học sinh, giáo dục quốc tế, kỹ năng lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện, sức khỏe, tâm lý, tình bạn, học tập, giải trí, đa dạng, gắn kết công dân toàn cầu, các chương trình giáo dục, các môn học trình độ cao, các kỳ thi cuối cấp, v.v.

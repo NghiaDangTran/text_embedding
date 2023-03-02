@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Có, chúng tôi tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo. Trường Quốc tế Bắc Mỹ SNA là ứng viên của chương trình Tú Tài Quốc Tế (IB) của Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). Ngoài ra, trường còn cung cấp một chương trình ngoại khóa phong phú để hỗ trợ học sinh phát triển kỹ năng và truyền cảm hứng sáng tạo.  Đúng, chúng tôi tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo. SNA Him Lam có đầy đủ cơ sở vật chất và đội ngũ giáo viên để hỗ trợ các học sinh trong việc học tập chương trình quốc tế. Trường cũng đang ứng dụng chương trình PYP Primary Years Programme để giúp học sinh phát triển sự tự tin và các kỹ năng sáng tạo. Trường còn có thêm các khu vực chức năng khác như bể bơi, phòng Âm nhạc, phòng mỹ thuật, thư viện v.v. để tạo điều kiện tốt nhất cho sự phát triển toàn diện của học sinh.  Đúng, chúng tôi tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo. Tại SNA, học sinh được tham gia vào các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. Điều quan trọng trong chuyến đi là học sinh SNA được giáo dục để thể hiện sự quan tâm và chia sẻ với cộng đồng. Các hoạt động này giúp học sinh phát triển nhiều kỹ năng ngoài lớp học như làm việc nhóm, sự tự tin, quyết đoán, chính xác và tài năng.  Đội ngũ giáo viên của chúng tôi được tuyển chọn từ những giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo, đảm bảo rằng họ sẽ cung cấp cho học sinh các kiến thức chất lượng và môi trường học tập sáng tạo.  Đúng, chúng tôi tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo. Trường Quốc tế Bắc Mỹ hiện là ứng viên cho chương trình Tú tài Quốc tế Khối Trung học (MYP) và Trung học phổ thông (IB DP). Các chương trình này đều nhằm phát triển trí tuệ, xã hội, cảm xúc và thể chất của học sinh, cũng như cung cấp những kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chúng tôi tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo, đúng không?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ SNA tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo. Trường cung cấp các chương trình như PYP, MYP và IB DP để hỗ trợ học sinh phát triển kỹ năng và các hoạt động ngoài lớp học như tham quan, khám phá thiên nhiên, rèn luyện thể chất, v.v. để học sinh phát triển nhiều kỹ năng ngoài lớp học.

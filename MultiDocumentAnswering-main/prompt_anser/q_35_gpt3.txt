@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trong chương trình DP, học sinh phải chọn một môn học trong mỗi nhóm môn học, bao gồm ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học, nghệ thuật và giáo dục thể chất. Học sinh cũng có thể chọn một khóa học từ sáu trong tổng số tám nhóm môn học trong năm Thứ 4 và 5, trong đó một trong những môn học đó phải là nghệ thuật hoặc học môn thứ hai trong các nhóm môn học khác. Mỗi môn học cần ít nhất 50 giờ học, và trong số đó ít nhất ba môn học phải được học ở trình độ cao, còn lại là trình độ chuẩn.  Đối với học sinh tham gia chương trình DP của Trường Quốc tế Bắc Mỹ - SNA, họ phải chọn một môn học trong mỗi nhóm môn học bao gồm các chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). Đây là một phần của việc SNA đảm bảo chất lượng hàng đầu trong lĩnh vực giáo dục quốc tế.  Đúng, học sinh trong chương trình DP phải chọn một môn học trong mỗi nhóm môn học. Trường cung cấp một loạt các môn học khác nhau trong các lĩnh vực khác nhau, bao gồm Vật lý, Hóa học, Sinh học, Công nghệ thông tin, Mỹ thuật, và Thư viện. Các học sinh cũng có cơ hội để tham gia các hoạt động thể thao, sáng tạo, nghệ thuật, công nghệ và các hoạt động bổ ích khác. Trường cũng có chương trình PYP Primary Years Programme, một chương trình được thiết kế để cung cấp cho học sinh các kiến thức, khái niệm, kỹ năng và thuộc tính cá nhân cần thiết.  Đối với chương trình DP, học sinh phải chọn một môn học trong mỗi nhóm môn học để hoàn thành chương trình. Tuy nhiên, cũng có nhiều không gian giải trí và các hoạt động chủ đề hàng tuần và hàng tháng khác để hỗ trợ học sinh trong việc phát triển lối sống cân bằng giữa học tập và thư giãn.  Để hoàn thành chương trình DP, học sinh phải chọn một môn học trong mỗi nhóm môn học, bao gồm môn thể thao, môn học trải nghiệm, và các chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. Các lựa chọn bao gồm CLB Bóng đá, CLB Bóng rổ, CLB Dance, các buổi học trải nghiệm, các chuyến đi trải nghiệm, và khu nội trú.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Học sinh trong chương trình DP phải chọn một môn học trong mỗi nhóm môn học?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Học sinh tham gia chương trình DP của Trường Quốc tế Bắc Mỹ - SNA phải chọn một môn học trong mỗi nhóm môn học bao gồm các chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). Các môn học bao gồm Vật lý, Hóa học, Sinh học, Công nghệ thông tin, Mỹ thuật, và Thư viện. Học sinh cũng có cơ hội để tham gia các hoạt động thể thao, sáng tạo, nghệ thuật, công nghệ và các hoạt động bổ ích khác. Để hoàn thành chương trình, học sinh phải chọn một môn học trong mỗi nhóm môn học, bao gồm các lựa chọn như CLB Bóng đá, CLB Bóng rổ, CLB Dance, các buổi học trải nghiệm, các chuyến đi trải nghiệm, và khu nội trú. CÂU TRẢ LỜI: Có, học sinh trong chương trình DP phải chọn một môn học trong mỗi nhóm môn học.

@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình DP DIPLOMA PROGRAMME trang bị cho học sinh tuổi 16 đến 19 bằng cách cung cấp các khóa học cơ bản và nâng cao, các dịch vụ hỗ trợ học tập và hướng nghiệp, tư vấn phúc lợi học sinh, hỗ trợ về ngôn ngữ và chương trình hòa nhập. Điều này giúp học sinh có được môi trường học tập an toàn và tin cậy để phát triển kỹ năng cần thiết để trở thành công dân toàn cầu.  Chương trình DP DIPLOMA PROGRAMME cung cấp cho học sinh tuổi 16 đến 19 những trang bị cần thiết bao gồm: các lớp học được trang bị thiết bị điện tử hiện đại, phòng thí nghiệm Vật lý, phòng thí nghiệm Hóa học và Sinh học, phòng Công nghệ thông tin, thư viện và phòng mỹ thuật. Các khu vực chức năng như bể bơi, nhà thi đấu, sân bóng đá, phòng golf 3D, phòng y tế cũng được cung cấp để giúp học sinh phát triển toàn diện. Ngoài ra, học sinh còn được hỗ trợ trong việc học hỏi thông qua các chương trình PYP PRIMARY YEARS PROGRAMME và Tú tài Quốc tế Khối Tiểu học (PYP).  Chương trình DP DIPLOMA PROGRAMME của Trường Quốc tế Bắc Mỹ - SNA cung cấp cho học sinh tuổi 16 đến 19 một môi trường học tập đa dạng và phong phú, trang bị cho học sinh những kỹ năng lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro. Chương trình còn cung cấp cho học sinh cơ hội thực sự để phát triển kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập, khởi dựng sự nghiệp cũng như cho cuộc sống sau này của họ.  Chương trình DP DIPLOMA PROGRAMME của Tập đoàn giáo dục Nguyễn Hoàng trang bị cho học sinh tuổi 16 đến 19 bằng cách cung cấp các dịch vụ và các không gian cần thiết như các đồ dùng cá nhân (vỏ nệm, vỏ gối, chăn), phòng ăn rộng rãi để nấu nướng, phòng khách lớn và ấm cúng, các không gian giải trí như khu vực chơi cờ, bóng bàn, cờ vua, môn thể thao như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ, các giám sát viên nhiều kinh nghiệm, lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn, giáo viên hỗ trợ học sinh học tập, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn.  Chương trình DP DIPLOMA PROGRAMME cung cấp cho học sinh tuổi 16 đến 19 một số cơ hội để học hỏi và trải nghiệm những gì họ đã học trong lớp học. Chương trình bao gồm các hoạt động như tham gia CLB Bóng đá, CLB Dance, các buổi học trải nghiệm, và các chuyến đi trải nghiệm như tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. Đồng thời, họ còn có cơ hội ở khu nội trú hiện đại với các tiện nghi tốt, đáp ứng tiêu chuẩn quốc tế.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chương trình DP DIPLOMA PROGRAMME làm gì để trang bị cho học sinh tuổi 16 đến 19?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình DP DIPLOMA PROGRAMME của Tập đoàn giáo dục Nguyễn Hoàng trang bị cho học sinh tuổi 16 đến 19 bằng cách cung cấp các khóa học cơ bản và nâng cao, các dịch vụ hỗ trợ học tập và hướng nghiệp, tư vấn phúc lợi học sinh, hỗ trợ về ngôn ngữ và chương trình hòa nhập, các đồ dùng cá nhân, phòng ăn rộng rãi, các không gian giải trí, các giám sát viên nhiều kinh nghiệm, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, dịch vụ y tế 24/24, các hoạt động như tham gia CLB Bóng đá, CLB Dance, các buổi học trải nghiệm, và các chuyến đi trải nghiệm.

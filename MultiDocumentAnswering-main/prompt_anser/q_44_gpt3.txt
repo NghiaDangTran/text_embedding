@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Môn thể thao Bóng đá được tích hợp vào chương trình ngoại khóa của Trường Quốc tế Bắc Mỹ - SNA, cung cấp cho các học sinh cơ hội để nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và trang bị những kỹ năng cần thiết để thích nghi trong cuộc sống.  Môn thể thao Bóng đá cung cấp cho các học sinh nhiều cơ hội để phát triển kỹ năng thể thao, cũng như các kỹ năng như tự tin, đoàn kết, điều chỉnh, sự tinh tế, tự lập, và hợp tác. Bên cạnh đó, bởi việc học thể thao Bóng đá, các học sinh còn có cơ hội để tạo ra một sự hòa hợp giữa cơ thể và trí tuệ, cũng như các kỹ năng điều khiển, xử lý thất bại, và đối phó với áp lực.  Môn thể thao Bóng đá có nhiều giá trị đặc biệt dành cho các học sinh, bao gồm những kỹ năng ngoài lớp học như làm việc nhóm, sự tự tin, quyết đoán, chính xác và tài năng được trau đồi, cũng như cơ hội thực hành các kỹ năng sinh tồn, giao tiếp và phản biện thông qua các chuyến đi học tập, tham quan, làm từ thiện và các hoạt động khác. Khu nội trú của trường cũng cung cấp tiện nghi cho học sinh sống ở ngoài TP.HCM với các phòng được trang bị tốt, đáp ứng tiêu chuẩn tự học và thư giãn.  Môn thể thao Bóng đá của SNA cung cấp cho các học sinh nhiều cơ hội để tham gia các hoạt động thể thao khác nhau như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ. Các học sinh cũng có thể tham gia các sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên. Để đảm bảo sức khỏe và an toàn cho học sinh, SNA cũng cung cấp dịch vụ y tế 24/24.  Chương trình PYP cung cấp nền tảng lý tưởng cho học sinh để trẻ em phát triển sự độc lập, tư duy quốc tế và khả năng ngôn ngữ, trong khi chương trình MYP và DP cung cấp cho học sinh những thử thách trí tuệ, phát triển các kỹ năng giao tiếp, cảm xúc và thể chất, cũng như sự hiểu biết đa văn hóa. Bóng đá là một trong những môn thể thao được đề cập trong các chương trình trên, cung cấp cho học sinh những lợi ích như sự động viên, thể lực và sự giao tiếp với nhau, đồng thời học hỏi các nguyên tắc của trò chơi.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Môn thể thao Bóng đá có gì đặc biệt cho các học sinh?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Môn thể thao Bóng đá của Trường Quốc tế Bắc Mỹ - SNA cung cấp cho các học sinh nhiều cơ hội để phát triển kỹ năng thể thao, cũng như các kỹ năng như tự tin, đoàn kết, điều chỉnh, sự tinh tế, tự lập và hợp tác. Bên cạnh đó, các học sinh còn có cơ hội để tạo ra một sự hòa hợp giữa cơ thể và trí tuệ, cũng như các kỹ năng điều khiển, xử lý thất bại và đối phó với áp lực. Bóng đá có nhiều giá trị đặc biệt dành cho các học sinh bao gồm kỹ năng ngoài lớp học như làm việc nhóm, sự tự tin, quyết đoán, chính xác và tài năng được trau đồi.

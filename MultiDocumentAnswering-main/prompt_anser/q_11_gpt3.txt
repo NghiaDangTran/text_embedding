@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường SNA đặt ra các thách thức cho học sinh của mình bằng cách cung cấp các phương tiện để khuyến khích tư duy và hành động sáng tạo, bao gồm các chương trình Tiểu học, Trung học và Tú tài Quốc tế IB. Trong đó, học sinh được khuyến khích đặt câu hỏi, sử dụng sáng tạo cá nhân, phát triển khả năng thực tế, tư duy sáng tạo và tư duy phản biện, chấp nhận rủi ro và khám phá các ý tưởng, đánh giá các tình huống, tạo ra các giải pháp khả thi và cải tiến cho các vấn đề đặt ra.  Trường SNA đặt ra những thách thức cho học sinh của mình bao gồm các chương trình học quốc tế, phòng thí nghiệm, thư viện, phòng công nghệ thông tin, phòng mỹ thuật, bể bơi, nhà thi đấu đa năng, phòng golf 3D, phòng y tế và chương trình PYP Primary Years Programme. Những thách thức này được thiết kế để cung cấp các kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết cho học sinh để đạt được thành công trong hiện tại và tương lai.  Trường SNA đặt ra nhiều thách thức cho học sinh của mình, bao gồm cả các không gian học tập và giải trí, các hoạt động nhóm hỗ trợ học tập, các sự kiện trong nhà trường, dịch vụ y tế 24/7, và tuyển sinh. Ngoài ra, trường còn có các giám sát viên nhiều kinh nghiệm để hỗ trợ học sinh và đảm bảo sức khỏe và an toàn của họ.  Trường SNA đặt ra nhiều thách thức cho học sinh của mình bao gồm tham gia CLB Bóng đá, CLB Dance, các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, các chuyến thăm và làm từ thiện tại các trại trẻ mồ côi hoặc viện dưỡng lão, và sống tại khu nội trú của trường. Ngoài ra, học sinh cũng sẽ được giáo dục để thể hiện sự quan tâm và chia sẻ với cộng đồng, rèn luyện kỹ năng sinh tồn, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý và tôn trọng thiên nhiên.  Trường SNA đặt ra những thách thức cho học sinh của mình bao gồm: chương trình PYP Primary Years Programme, chương trình MYP Middle Years Programme, và chương trình DP Diploma Programme. Chương trình PYP cung cấp nền tảng cho trẻ em để học hỏi và phát triển các kỹ năng xã hội và cảm xúc của họ, bao gồm các thách thức về tư duy quốc tế, thái độ và cách sắp xếp việc học. Chương trình MYP Middle Years Programme thể hiện nét đặc trưng của SNA và đảm bảo việc giữ tinh hoa của văn hóa Việt bằng cách bao gồm tiếng Việt trong chương trình, cũng như cung cấp những thách thức trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. Cuối cùng, chương trình DP Diploma Programme cung cấp các thách thức về mặt học thuật, phát triển trí tuệ, xã hội, cảm xúc và thể chất của học sinh bằng cách yêu cầu học sinh chọn một môn học trong mỗi nhóm môn cung cấp kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Những thách thức mà trường SNA đặt ra cho học sinh của mình là gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA đặt ra nhiều thách thức cho học sinh của mình bao gồm các chương trình học quốc tế, các hoạt động hỗ trợ học tập, các sự kiện trong nhà trường, dịch vụ y tế 24/7, tham gia các CLB, chuyến đi học tập, làm từ thiện, rèn luyện kỹ năng sinh tồn và hiểu về văn hóa. Ngoài ra, trường còn có các chương trình PYP Primary Years Programme, MYP Middle Years Programme và DP Diploma Programme.

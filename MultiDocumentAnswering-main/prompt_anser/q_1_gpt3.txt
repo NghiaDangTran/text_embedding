@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi Chương trình Tú tài Quốc tế khối Tiểu học/Trung học Cơ sở/Chương trình DP của International Baccalaureate (IB). Hiện tại, Trường Quốc tế Bắc Mỹ đang trên lộ trình trở thành một trường IB Quốc tế.  Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi tổ chức Hội đồng Quốc tế các Trường Quốc tế (CIS).  Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi Tập đoàn giáo dục Nguyễn Hoàng, một tập đoàn giáo dục lớn có trụ sở tại TP. Hồ Chí Minh, Việt Nam.  Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi tổ chức Quốc tế Các Trường Quốc tế (International Council of International Schools - ICIS).  Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi Tú tài Quốc tế (IB). Trường này hiện là ứng viên của chương trình Tú tài Quốc tế Khối Trung học (MYP) và Tú tài Quốc tế bậc Trung học phổ thông (IB DP).
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi tổ chức nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA được công nhận là thành viên của Hội đồng các Trường Quốc tế (CIS) bởi Hội đồng Quốc tế các Trường Quốc tế (CIS), Tập đoàn giáo dục Nguyễn Hoàng, và tổ chức Quốc tế Các Trường Quốc tế (International Council of International Schools - ICIS), và Tú tài Quốc tế (IB). Trường này hiện là ứng viên của chương trình Tú tài Quốc tế Khối Trung học (MYP) và Tú tài Quốc tế bậc Trung học phổ thông (IB DP).

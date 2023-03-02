@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình PYP Primary Years Programme là một phần của tổ chức IB International Baccalaureate, một hệ thống giáo dục toàn cầu có trụ sở tại Thụy Sĩ. Nó bao gồm các chương trình học tập toàn cầu Tiểu học, Trung học và Tú tài Quốc tế, nhằm mục đích khuyến khích tư duy và hành động sáng tạo của học sinh, để họ phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện.  Chương trình PYP Primary Years Programme là một chương trình quốc tế của International Baccalaureate (IB) dành cho học sinh từ nhật ký đến thứ 5. Chương trình này cung cấp cho học sinh nền tảng kiến thức cơ bản, các khóa học nâng cao, tư vấn học tập và hướng nghiệp, hỗ trợ ngôn ngữ, tư vấn phúc lợi học sinh, chương trình hòa nhập và nghệ thuật thị giác. Bên cạnh đó, còn có các lĩnh vực thể thao như bóng đá để hỗ trợ học sinh phát triển tối đa tiềm năng của họ.  Chương trình PYP Primary Years Programme (Chương trình Tiểu học) là một trong ba chương trình học tập chính của Trường Quốc tế Bắc Mỹ (SNA) ứng dụng Tú Tài Quốc Tế (IB). Chương trình này được thiết kế để trang bị cho học sinh những kỹ năng của công dân toàn cầu thế kỉ 21, đặc biệt là khả năng giải quyết vấn đề và tư duy phản biện, nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại, lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân và khả năng chấp nhận rủi ro.  Chương trình PYP Primary Years Programme (PYP) là một chương trình giáo dục quốc tế được cấp bằng bởi Hiệp hội Giáo dục Quốc tế (IBO). Nó cung cấp một môi trường học tập hội nhập, toàn diện và tích hợp cho học sinh trong khoảng từ 5 đến 12 tuổi. Chương trình PYP đặt nhân bản vào trung tâm và dựa trên lý thuyết của các cơ sở lý luận và bài học kinh nghiệm, để cung cấp một hệ thống giáo dục đầy đủ, tích hợp và cải tiến liên tục. Nó bao gồm các khía cạnh về toán học, văn học, lịch sử, địa lý, khoa học và thể chất, cũng như các kỹ năng như sự quan tâm, tư duy phản biện, tự tin và hội nhập.  Khái niệm chương trình PYP Primary Years Programme là một phương pháp giáo dục quốc tế được thiết kế để hỗ trợ học sinh trẻ từ 5 đến 11 tuổi trong việc phát triển các kỹ năng cần thiết để thành công trong cuộc sống. Nó bao gồm các hoạt động học tập trên lớp, các chuyến đi trải nghiệm, các chuyến đi tham quan và làm từ thiện, cũng như các khái niệm công dân toàn cầu. Tất cả các hoạt động này đều được thiết kế để hỗ trợ học sinh trong việc phát triển kỹ năng và tư duy, tạo điều kiện cho học sinh để trở thành công dân toàn cầu.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Khái niệm chương trình PYP Primary Years Programme?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình PYP Primary Years Programme là một chương trình quốc tế của International Baccalaureate (IB) dành cho học sinh từ nhật ký đến thứ 5. Nó cung cấp một môi trường học tập hội nhập, toàn diện và tích hợp cho học sinh trong khoảng từ 5 đến 12 tuổi, với các hoạt động học tập trên lớp, chuyến đi trải nghiệm, tham quan và làm từ thiện, để hỗ trợ học sinh trong việc phát triển kỹ năng và tư duy cần thiết để trở thành công dân toàn cầu.

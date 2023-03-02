@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các hoạt động như phát triển học sinh, nhằm rèn luyện tư duy phản biện, phát triển các kỹ năng thiết yếu trong sự hội nhập của thế kỷ 21, tuyển chọn đội ngũ giáo viên có kinh nghiệm giảng dạy chương trình quốc tế và có khả năng truyền cảm hứng sáng tạo cho học sinh, cung cấp cho học sinh những phương tiện để khuyến khích tư duy và hành động sáng tạo, thúc đẩy ý chí học tập suốt đời, các chương trình học được thiết kế một cách khoa học cho phép học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện, khuyến khích học sinh về việc chấp nhận rủi ro và khám phá các ý tưởng.  Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các hoạt động giáo dục, bao gồm công tác giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, chương trình giảng dạy tiên tiến và cân bằng, cũng như các hoạt động nghiên cứu và thực hành trong các phòng thí nghiệm, phòng Công nghệ thông tin, Thư viện và Phòng Mỹ thuật. Trường cũng áp dụng Chương trình Tiểu học Quốc tế (PYP) để cung cấp các kiến thức, khái niệm, kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết cho học sinh.  Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các hoạt động của cộng đồng trường như CLB Bóng đá, CLB Bóng rổ, CLB Dance, các buổi học trải nghiệm, các chuyến đi trải nghiệm khác và khu nội trú. Các hoạt động này giúp học sinh được học những kỹ năng ngoài lớp học, học hỏi về văn hóa, lịch sử, địa lý, phát triển cá nhân, hiểu về cộng đồng, tôn trọng thiên nhiên, rèn luyện thể chất, nhận thức về cộng đồng và tự học.  Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các hoạt động giáo dục tư thục, bao gồm các hoạt động giải trí, thể thao, học tập, sự kiện trong trường, chăm sóc sức khỏe và y tế, tổ chức chuyến tham quan trường, tuyển sinh và giới thiệu về sứ mệnh và tầm nhìn của Tập đoàn giáo dục Nguyễn Hoàng.  Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các chương trình giáo dục như PYP (Primary Years Programme), MYP (Middle Years Programme) và DP (Diploma Programme). PYP cung cấp nền tảng lý tưởng để trẻ em trở thành những người thành công và không ngừng học hỏi bằng việc phát triển sự độc lập về kỹ năng xã hội và cảm xúc. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật, các kỳ thi cuối cấp sẽ trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA có xem học tập của học sinh là nền tảng cho hoạt động gì của cộng đồng trường?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA xem học tập của học sinh là nền tảng cho các hoạt động giáo dục, bao gồm công tác giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, chương trình giảng dạy tiên tiến và cân bằng, cũng như các hoạt động nghiên cứu và thực hành trong các phòng thí nghiệm, phòng Công nghệ thông tin, Thư viện và Phòng Mỹ thuật. Trường cũng áp dụng Chương trình Tiểu học Quốc tế (PYP) và các chương trình khác như MYP và DP. Các hoạt động ngoài lớp học như CLB Bóng đá, CLB Bóng rổ, CLB Dance, các buổi học trải nghiệm, các chuyến đi trải nghiệm khác và khu nội trú được trường tổ chức để hỗ trợ học sinh.

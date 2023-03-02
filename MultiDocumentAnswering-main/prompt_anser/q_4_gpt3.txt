@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Sứ mệnh của Trường Quốc tế Bắc Mỹ - SNA là để chuẩn bị học sinh để trở thành những người biết hợp tác, đóng góp một cách tích cực và hiệu quả, bằng cách cung cấp một môi trường học tập trung tâm, nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro. Bên cạnh ba chương trình học tập chính, SNA cũng thiết kế một chương trình ngoại khóa phong phú để trang bị những kỹ năng phù hợp cho học sinh.  Trường Quốc tế Bắc Mỹ - SNA có sứ mệnh là chuẩn bị học sinh bằng cách cung cấp một môi trường học tập và phát triển hiện đại, bao gồm các phòng học được trang bị các thiết bị điện tử hiện đại, các phòng thí nghiệm vật lý, hóa học và sinh học, phòng công nghệ thông tin, thư viện và phòng mỹ thuật, và các khu vực chức năng như thể thao, sáng tạo, nghệ thuật, công nghệ. Trường cũng là ứng viên cho chương trình Tú tài Quốc tế Khối Tiểu học (PYP), một chương trình được thiết kế để cung cấp kiến thức, khái niệm, kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết cho học sinh tuổi đời.  Trường Quốc tế Bắc Mỹ - SNA có sứ mệnh để đào tạo thế hệ học sinh và sinh viên có trí tuệ, tâm hồn, thể lực và kỹ năng vượt trội để sống hạnh phúc, hội nhập quốc tế và trở thành công dân toàn cầu có trách nhiệm. Để thực hiện sứ mệnh này, SNA cung cấp nhiều đồ dùng cá nhân (vỏ nệm, vỏ gối, chăn) và phòng ăn rộng rãi để nấu nướng, chia sẻ các buổi ăn cuối tuần cùng bạn bè và giáo viên, phòng khách lớn và ấm cúng để học sinh gặp gỡ gia đình, bạn bè hoặc khách của mình, khu vực chơi cờ, bóng bàn, cờ vua, các môn thể thao như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ, giám sát viên nhiều kinh nghiệm cho từng nhóm học sinh, lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn, giáo viên hỗ trợ học tập, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên, dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh.  Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình PYP (Primary Years Programme) để chuẩn bị học sinh bằng cách phát triển sự độc lập về kỹ năng xã hội và cảm xúc, tư duy quốc tế, thái độ và cách sắp xếp việc học của họ. Chương trình MYP (Middle Years Programme) và DP (Diploma Programme) cũng được sử dụng để chuẩn bị học sinh bằng cách cung cấp các khóa học bao gồm các nhóm chủ đề và các môn học để phát triển trí tuệ, xã hội, cảm xúc và thể chất của họ.  Trường Quốc tế Bắc Mỹ - SNA có sứ mệnh là chuẩn bị học sinh bằng cách cung cấp cho họ nhiều kỹ năng ngoài lớp học, bao gồm các CLB như CLB Bóng đá, CLB Bóng rổ, CLB Dance, các chuyến đi trải nghiệm và các chuyến đi tham quan. Trường cũng cung cấp cho học sinh một khu nội trú hiện đại với các phòng được trang bị đầy đủ, tiện nghi và đáp ứng tiêu chuẩn tự học và thư giãn.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA có sứ mệnh gì để chuẩn bị học sinh?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA có sứ mệnh là chuẩn bị học sinh bằng cách cung cấp một môi trường học tập và phát triển hiện đại, bao gồm các phòng học được trang bị các thiết bị điện tử hiện đại, các phòng thí nghiệm vật lý, hóa học và sinh học, phòng công nghệ thông tin, thư viện và phòng mỹ thuật, và các khu vực chức năng như thể thao, sáng tạo, nghệ thuật, công nghệ. Trường cũng cung cấp cho học sinh các kỹ năng ngoài lớp học, bao gồm các CLB, các chuyến đi trải nghiệm và các chuyến đi tham quan, và một khu nội trú hiện đại với các phòng được trang bị đầy đủ, tiện nghi và đáp ứng tiêu chuẩn tự học và thư giãn.

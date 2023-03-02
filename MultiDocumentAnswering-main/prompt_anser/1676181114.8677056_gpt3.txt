@@ -1,0 +1,17 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Ngôn ngữ có thể góp phần gia tăng sự hợp tác, đóng góp một cách tích cực và hiệu quả, kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro, cũng như các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại.  Ngôn ngữ có thể góp phần gia tăng hiệu quả trong công tác giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, nâng cao chương trình giảng dạy của trường, cung cấp thông tin về cơ sở vật chất và các khu vực chức năng khác, đảm bảo các tiêu chuẩn an toàn phù hợp, trang bị thiết bị điện tử hiện đại cho các lớp học, cung cấp một môi trường an toàn, tích cực cho các học sinh trong Phòng Công nghệ thông tin, thỏa thích sáng tạo trong Phòng Mỹ thuật, khám phá những kiến thức cơ bản của Mỹ thuật, cung cấp những thể loại sách, độ khó khác nhau đáp ứng đa dạng sở thích, nhu cầu của học sinh trong Thư viện, và áp dụng chương trình Tiểu học (PYP).  Ngôn ngữ có thể góp phần gia tăng đa dạng các kỹ năng ngoài lớp học, giúp học sinh trở thành một đồng đội tốt, cải thiện nhiều hơn về sự linh hoạt, dẻo dai của học sinh, học hỏi từ những sai lầm và tự tin để đạt được bất cứ điều gì các em muốn, phát huy tính trách nhiệm của công dân toàn cầu, phát triển kỹ năng giao tiếp, phát triển tư duy phân tích, phản biện, các kỹ năng sinh tồn, xây dựng đội ngũ, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý, rèn luyện thể chất, nhận thức về cộng đồng và tôn trọng thiên nhiên.  Ngôn ngữ có thể góp phần gia tăng sự thuận tiện trong cuộc sống, hỗ trợ học sinh để học tập, phát triển kỹ năng sống, học thuật và các hoạt động giải trí, từ đồ dùng cá nhân như vỏ nệm, vỏ gối, chăn đến các không gian giải trí như khu vực chơi cờ, bóng bàn, cờ vua, các môn thể thao như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ; các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên; cũng như các dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn của học sinh.  Ngôn ngữ có thể góp phần gia tăng khả năng giao tiếp, hiểu biết đa văn hóa, trí tuệ, xã hội, cảm xúc, thể chất và kỹ năng tư duy của học sinh. Các chương trình giáo dục quốc tế như Primary Years Programme (PYP), Middle Years Programme (MYP) và Diploma Programme (DP) cũng cung cấp một số khóa học ngôn ngữ để trợ giúp học sinh phát triển các kỹ năng này.
+
+
+CÂU HỎI: Ngôn ngữ có thể góp phần gia tăng những gì?
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Ngôn ngữ có thể góp phần gia tăng sự hợp tác, kỹ năng lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện, khả năng chấp nhận rủi ro, kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại, hiệu quả trong công tác giao tiếp, thông tin, an toàn, trang bị thiết bị điện tử, sách, độ khó khác nhau, sai lầm, tính trách nhiệm, giao tiếp, tư duy phân tích, sinh tồn, xây dựng đội ngũ, văn hóa, lịch sử, địa lý, thể chất, nhận thức cộng đồng, thiên nhiên và cuộc sống.

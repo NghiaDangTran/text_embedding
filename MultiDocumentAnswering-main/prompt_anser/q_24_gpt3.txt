@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Phòng Mỹ thuật của trường được thiết kế với một chương trình học tập đa dạng và phong phú, tập trung vào các kỹ năng lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro. Đồng thời, trường cũng cung cấp cho học sinh những cơ hội thực sự để nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập và cuộc sống sau này.  Phòng Mỹ thuật của trường được thiết kế với thiết kế tiện nghi hiện đại, nhằm giúp các em học sinh thể hiện bản thân và phát triển sự tự tin. Các em được học cách sử dụng nhiều vật liệu đa dạng, được khám phá những kiến thức cơ bản của Mỹ thuật, được thỏa thích sáng tạo và đánh thức những khả năng tiềm ẩn từ chính bản thân mình.  Phòng Mỹ thuật của trường Quốc tế Bắc Mỹ được thiết kế để hỗ trợ học sinh trong việc học các môn học của chương trình Tú tài Quốc tế Khối Trung học (MYP) và bậc Trung học phổ thông (IB DP). Phòng Mỹ thuật cung cấp các nền tảng và kiến thức cần thiết cho học sinh để trở thành những nhà sáng tạo, với tư duy phản biện và khả năng phản xạ. Chương trình MYP bao gồm tám nhóm chủ đề, bao gồm ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế. Trong khi chương trình DP bao gồm các môn học ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học, nghệ thuật hoặc môn học thứ hai trong các nhóm môn khác.  Phòng Mỹ thuật của trường Quốc tế Bắc Mỹ được trang bị tốt với 24 phòng, bao gồm phòng khách, phòng ăn, bếp, phòng giặt, phòng tắm, phòng ngủ, được trang bị giường tầng, nệm, gối, chăn, tủ, bàn, ghế và tủ lạnh. Phòng khách rộng rãi được trang bị tiện nghi hiện đại với máy tính, TV, sách/tạp chí, bàn ghế, ghế dài... Phòng giặt cũng được trang bị hiện đại, tiện nghi cho việc giặt, sấy quần áo và giữ sạch cho học sinh.  Phòng Mỹ thuật của trường Nguyễn Hoàng được thiết kế để cung cấp cho học sinh một môi trường học tập tốt nhất, bao gồm các đồ dùng cá nhân như vỏ nệm, vỏ gối, chăn; phòng ăn rộng rãi để nấu nướng; phòng khách lớn và ấm cúng để học sinh gặp gỡ gia đình, bạn bè hoặc khách của mình; khu vực chơi cờ, bóng bàn, cờ vua; bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ; giám sát viên nhiều kinh nghiệm; lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn; các hoạt động chủ đề hàng tuần và hàng tháng; nhiều sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên; dịch vụ y tế 24/24.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Phòng Mỹ thuật của trường được thiết kế như thế nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Phòng Mỹ thuật của trường Quốc tế Bắc Mỹ được thiết kế với một chương trình học tập đa dạng và phong phú, nhằm trang bị những kỹ năng phù hợp cho hành trình học tập và cuộc sống sau này. Phòng Mỹ thuật có 24 phòng, bao gồm phòng khách, phòng ăn, bếp, phòng giặt, phòng tắm, phòng ngủ, được trang bị giường tầng, nệm, gối, chăn, tủ, bàn, ghế và tủ lạnh. Các em được học cách sử dụng nhiều vật liệu đa dạng, được khám phá những kiến thức cơ bản của Mỹ thuật, được thỏa thích sáng tạo và đánh thức những khả năng tiềm ẩn từ chính bản thân mình. Phòng Mỹ thuật còn cung cấp các hoạt động chủ đề hàng tuần và hàng tháng, nhiều sự kiện trong khu nội trú, dịch vụ y tế 24/24.

@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA là ứng viên của chương trình Tú Tài Quốc Tế (IB) bao gồm Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP), và cũng đang trong quá trình hoàn thành những bước cuối cùng của báo cáo đánh giá để được công nhận bởi WASC - Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ.  Trường Quốc tế Bắc Mỹ hiện là ứng viên cho chương trình Tú tài Quốc tế Khối Tiểu học (PYP) của International Baccalaureate (IB). Chương trình này được thiết kế cho học sinh từ 3-12 tuổi, với mục tiêu cung cấp kiến thức, khái niệm, kỹ năng, các thuộc tính cá nhân và khả năng hành động mà tất cả học sinh nhỏ tuổi cần trang bị để thành công.  Trường Quốc tế Bắc Mỹ hiện là ứng viên cho chương trình Tú tài Quốc tế Khối Trung học (MYP) và chương trình Tú tài Quốc tế bậc Trung học phổ thông (IB DP). MYP cung cấp một khung học tập khuyến khích học sinh trở thành những nhà sáng tạo, với tư duy phản biện và khả năng phản xạ. DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật, các kỳ thi cuối cấp sẽ trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.  Trường Quốc tế Bắc Mỹ - SNA là một trường thuộc Tập đoàn Giáo dục Nguyễn Hoàng với sứ mệnh đào tạo thế hệ học sinh - sinh viên có trí tuệ, tâm hồn, thể lực và kỹ năng vượt trội để sống hạnh phúc, hội nhập quốc tế và trở thành công dân toàn cầu có trách nhiệm.  Trường Quốc tế Bắc Mỹ - SNA là ứng viên của chương trình học tập trải nghiệm, bao gồm các hoạt động như các chuyến thăm và làm từ thiện, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v., để giúp học sinh phát triển kỹ năng và thể hiện sự quan tâm và chia sẻ với cộng đồng. Khu nội trú SNA cũng được trang bị tốt để phục vụ cho nhu cầu học tập của học sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA là ứng viên của chương trình nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA là ứng viên của chương trình Tú Tài Quốc Tế (IB) bao gồm Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). Khu nội trú cũng được trang bị để phục vụ các hoạt động học tập của học sinh.

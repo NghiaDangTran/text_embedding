@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích phát triển học sinh bằng cách cung cấp cho học sinh những phương tiện để khuyến khích tư duy và hành động sáng tạo, các chương trình IB của trường sẽ khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện, cũng như thúc đẩy ý chí học tập suốt đời.  Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) để cung cấp môi trường học tập tốt nhất cho học sinh bằng cách tích hợp các chương trình học quốc tế, các thiết bị và cơ sở vật chất hiện đại, các phòng thí nghiệm, phòng CNTT, thư viện, phòng mỹ thuật và các khu vực chức năng khác, và cấp phép chương trình PYP Primary Years Programme.  Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích để đảm bảo rằng trường cung cấp một trải nghiệm học tập tốt nhất cho học sinh bằng cách cung cấp môi trường học tập an toàn và có sự hỗ trợ đầy đủ cho học sinh. Điều này được thể hiện qua nhiều không gian giải trí, các hoạt động giáo dục và sự chăm sóc chuyên nghiệp của nhân viên. Đồng thời, trường cũng cung cấp quy trình tuyển sinh đơn giản và hiệu quả cho các phụ huynh.  Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích để cung cấp cho học sinh một môi trường đào tạo chất lượng cao và đa dạng, cũng như để giúp học sinh trở thành công dân toàn cầu. Để đạt được mục đích này, trường cung cấp cho học sinh một loạt các chuyến đi trải nghiệm học tập ngoài lớp học, các chuyến đi tham quan, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v., cũng như một khu nội trú đáp ứng tiêu chuẩn quốc tế.  Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích để cung cấp một môi trường học tập toàn diện cho học sinh bằng cách áp dụng các chương trình PYP, MYP và DP. Chương trình PYP cung cấp nền tảng để phát triển kỹ năng xã hội và cảm xúc của học sinh, MYP khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống, trong khi chương trình DP trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học và trong cuộc sống tương lai.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA được chính thức trao tư cách thành viên của Hội đồng các Trường Quốc tế (CIS) nhằm mục đích để cung cấp cho học sinh một môi trường học tập tốt nhất bằng cách áp dụng các chương trình học quốc tế, các thiết bị và cơ sở vật chất hiện đại, các phòng thí nghiệm, phòng CNTT, thư viện, phòng mỹ thuật và các khu vực chức năng khác, cũng như các hoạt động giáo dục và sự chăm sóc chuyên nghiệp của nhân viên.

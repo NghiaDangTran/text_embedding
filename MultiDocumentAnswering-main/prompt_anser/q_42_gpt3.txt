@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Vai trò của cố vấn học vụ là cung cấp những thông tin và hướng dẫn cần thiết để giúp phụ huynh và học sinh hiểu về tình hình học tập của học sinh, các chương trình giảng dạy và cơ sở vật chất của trường, cũng như các cơ sở khác như thư viện, phòng thí nghiệm, phòng CNTT, phòng mỹ thuật và các khu vực thể thao. Họ cũng phải đảm bảo rằng các học sinh được hỗ trợ tốt nhất trong việc học tập và phát triển các kỹ năng cần thiết để đạt được thành công trong tương lai, bao gồm chương trình PYP Primary Years Programme.  Vai trò của cố vấn học vụ là hướng dẫn và hỗ trợ học sinh trong việc học tập và phát triển theo chương trình Tú Tài Quốc Tế của Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP). Cố vấn học vụ cũng cố gắng tạo ra một môi trường học tập mà ở đó học sinh là trung tâm, đồng thời nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro. Cố vấn học vụ cũng sẽ chia sẻ kiến thức và thúc đẩy những quan điểm đa dạng để trang bị học sinh các kỹ năng cần thiết cho cuộc sống.  Vai trò của cố vấn học vụ là tổ chức, quản lý và hỗ trợ các chương trình học tập của trường bao gồm Primary Years Programme (PYP), Middle Years Programme (MYP), và Diploma Programme (DP). Cố vấn học vụ sẽ hỗ trợ giáo viên, học sinh và gia đình trong việc giúp học sinh có được một trải nghiệm học tập tốt nhất. Cố vấn học vụ cũng có trách nhiệm giúp học sinh phát triển kỹ năng xã hội, tư duy quốc tế, thái độ và cách sắp xếp việc học, cũng như hỗ trợ học sinh trong việc học thêm ngôn ngữ từ 7 tuổi và các khóa học từ sáu trong số tám nhóm môn học trong năm thứ 4 và 5 của MYP, và tối thiểu 50 giờ giảng dạy cho mỗi nhóm môn học trong mỗi năm học của DP.  Vai trò của cố vấn học vụ là hướng dẫn và giúp đỡ học sinh trong việc tìm kiếm, đánh giá và tham gia các chương trình học tập, chuyến đi trải nghiệm, các hoạt động dã ngoại, các trại trẻ mồ côi hoặc viện dưỡng lão, và các hoạt động nội trú khác. Cố vấn học vụ cũng giúp học sinh phát triển kỹ năng giao tiếp, tư duy phân tích và phản biện, kỹ năng sinh tồn, và các kỹ năng khác.  Vai trò của cố vấn học vụ là cung cấp sự hỗ trợ, tư vấn và chăm sóc cho học sinh nội trú. Cố vấn học vụ có trách nhiệm giúp học sinh nội trú tham gia các hoạt động học tập, vui chơi và thư giãn, hỗ trợ học sinh học tập vào buổi tối, tổ chức các hoạt động chủ đề hàng tuần và hàng tháng để nâng cao kỹ năng sống của học sinh, cung cấp dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh, và luôn đảm bảo sự chăm sóc và hỗ trợ tốt nhất cho học sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Vai trò của cố vấn học vụ là gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Cố vấn học vụ cung cấp thông tin và hướng dẫn để giúp phụ huynh và học sinh hiểu về tình hình học tập của học sinh. Họ cũng phải hỗ trợ học sinh trong việc học tập, phát triển kỹ năng và tổ chức các chương trình học tập PYP, MYP và DP. Cố vấn học vụ cũng chăm sóc và hỗ trợ học sinh nội trú bao gồm cung cấp dịch vụ y tế 24/24, tổ chức các hoạt động học tập, vui chơi và thư giãn.

@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình Trung học (MYP) của Trường Quốc tế Bắc Mỹ (SNA) thúc đẩy sự phát triển của học sinh bằng cách tạo một môi trường học tập mà ở đó học sinh là trung tâm, nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro, và cung cấp cơ hội thực sự cho học sinh để nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập, khởi dựng sự nghiệp cũng như cho cuộc sống sau này của học sinh.  MYP nhấn mạnh việc sử dụng các chương trình giáo dục quốc tế, cơ sở vật chất tiên tiến, các phòng thí nghiệm, thư viện, phòng mỹ thuật, công nghệ thông tin để thúc đẩy sự phát triển của học sinh. Chương trình PYP cũng cung cấp cho học sinh các kiến thức, khái niệm, kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết để thành công hiện nay và tương lai.  Chương trình MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống, thúc đẩy sự phát triển các kỹ năng giao tiếp, hiểu biết đa văn hóa cũng như tham gia vào các vấn đề toàn cầu với những phẩm chất cần thiết cho những công dân trẻ tuổi.  MYP nhấn mạnh việc cung cấp các đồ dùng cá nhân (vỏ nệm, vỏ gối, chăn) cho học sinh, có phòng ăn rộng rãi để nấu nướng, chia sẻ buổi ăn cuối tuần cùng bạn bè và giáo viên, phòng khách lớn và ấm cúng, các khu vực giải trí như khu vực chơi cờ, bóng bàn, cờ vua, bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ, có giám sát viên nhiều kinh nghiệm, các ba mẹ nội trú có kiến thức và hiểu biết tốt về sức khỏe cũng như tinh thần, tâm lý của học sinh ở mọi lứa tuổi, có lịch trình chi tiết để đảm bảo phát triển lối sống cân bằng giữa học tập và thư giãn, có giáo viên hỗ trợ học tập vào buổi tối, có các hoạt động chủ đề hàng tuần và hàng tháng, có các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, cung cấp dịch vụ y tế 24/24 để đảm bảo sức khỏe và an toàn cho học sinh.  MYP nhấn mạnh việc học sinh tham gia các hoạt động ngoài lớp học, như tham gia các CLB, thể thao, các lớp học nhảy, các chuyến đi học tập và các chuyến tham quan, khám phá thiên nhiên, rèn luyện thể chất. Điều này sẽ giúp học sinh phát triển kỹ năng giao tiếp, tinh thần không ngừng học hỏi, tự tin, quyết đoán, chính xác và tài năng được trau đồi. Khu nội trú cũng được thành lập để hỗ trợ học sinh trong việc học tập và làm từ thiện.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ MYP nhấn mạnh những gì để thúc đẩy sự phát triển của học sinh?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình MYP của Trường Quốc tế Bắc Mỹ nhấn mạnh việc sử dụng các chương trình giáo dục quốc tế, cơ sở vật chất tiên tiến, các phòng thí nghiệm, thư viện, phòng mỹ thuật, công nghệ thông tin để thúc đẩy sự phát triển của học sinh. MYP cũng cung cấp cho học sinh các kiến thức, khái niệm, kỹ năng, thuộc tính cá nhân và khả năng hành động cần thiết để thành công hiện nay và tương lai. MYP cũng cung cấp các đồ dùng cá nhân, các phòng nội trú, lịch trình chi tiết, giáo viên hỗ trợ học tập vào buổi tối, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện và dịch vụ y tế 24/24 để hỗ trợ học sinh. MYP cũng nhấn mạnh việc học sinh tham gia các hoạt động ngoài lớp học, như tham gia các CLB, thể thao, các lớp học nhảy, các chuyến đi học tập và các chuyến tham quan.

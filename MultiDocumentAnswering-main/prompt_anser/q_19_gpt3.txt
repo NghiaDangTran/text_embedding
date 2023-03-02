@@ -1,0 +1,28 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+đi học tập, chuyến tham quan, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v. Các hoạt động này giúp học sinh khám phá thế giới bên ngoài, rèn luyện tính trách nhiệm của công dân toàn cầu, phát huy tính cá nhân, v.v. Ngoài ra, trường còn cung cấp một khu nội trú đáp ứng tiêu chuẩn quốc tế cho học sinh sống ở ngoài TP.HCM, đảm bảo độ an toàn và tiện nghi cho học sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Phản hồi của phụ huynh về chương trình giảng dạy của trường?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Phụ huynh đánh giá cao chương trình giảng dạy của trường bao gồm PYP, MYP và DP, cũng như cơ sở vật chất và các hoạt động giáo dục đa dạng, gắn kết công dân toàn cầu. Trường cũng được trao tư cách thành viên của Hội đồng các Trường Quốc tế.
+
+=========
+
+
+
+Trường cung cấp các hoạt động như đi học tập, chuyến tham quan, rèn luyện thể chất, học về kỹ năng sinh tồn v.v. để giúp học sinh khám phá thế giới bên ngoài, phát huy tính cá nhân và rèn luyện tính trách nhiệm của công dân toàn cầu. Ngoài ra, trường còn cung cấp một khu nội trú đáp ứng tiêu chuẩn quốc tế cho học sinh sống ở ngoài TP.HCM, đảm bảo độ an toàn và tiện nghi cho học sinh. Phụ huynh đánh giá cao chương trình giảng dạy của trường, đánh giá cao các hoạt động giúp học sinh phát huy tối đa khả năng và năng lực của mình.

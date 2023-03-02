@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ (WASC).  Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi chương trình Tú tài Quốc tế Khối Tiểu học (PYP).  Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi Tập đoàn giáo dục Nguyễn Hoàng, một tập đoàn giáo dục với nhiều trường và công ty thành viên.  Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi The Council of International Schools (CIS).  Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi Tú tài Quốc tế (IB), bao gồm các chương trình Khối Trung học (MYP) và Bậc Trung học phổ thông (DP). Chương trình MYP bao gồm tám nhóm chủ đề, bao gồm cả tiếng Việt, còn chương trình DP cung cấp kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA có đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi tổ chức gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA đang trong quá trình hoàn thành báo cáo đánh giá để được công nhận bởi Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ (WASC), Tập đoàn giáo dục Nguyễn Hoàng, The Council of International Schools (CIS) và Tú tài Quốc tế (IB), bao gồm các chương trình Khối Tiểu học (PYP), Khối Trung học (MYP) và Bậc Trung học phổ thông (DP).

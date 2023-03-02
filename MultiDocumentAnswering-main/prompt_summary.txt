@@ -1,0 +1,14 @@
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+<<SUMMARY>>
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ <<QUESTION>>
+<<QUESTION_END>>
+
+
+TÓM TẮC:

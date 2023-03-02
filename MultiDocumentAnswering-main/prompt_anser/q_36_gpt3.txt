@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình DP của Trường Quốc tế Bắc Mỹ bao gồm các nhóm môn học: ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế. Mỗi môn học được chia thành trình độ cao hoặc trình độ chuẩn. Học sinh cần học ít nhất ba môn học nhưng không quá bốn môn ở trình độ cao (240 giờ học), trong khi các môn còn lại được học ở trình độ chuẩn (150 giờ giảng dạy).  Chương trình DP của SNA được chia thành ba trình độ: Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP).  Chương trình DP được chia thành 3 trình độ: Primary Years Programme (PYP) dành cho học sinh từ 3-12 tuổi, Middle Years Programme (MYP) dành cho học sinh từ 11-16 tuổi và Diploma Programme (DP) dành cho học sinh từ 16-19 tuổi.  Chương trình DP được chia thành 3 trình độ, bao gồm: trình độ nhập học (Foundation), trình độ chuyên sâu (Higher Level) và trình độ chuyên sâu cao nhất (Advanced Higher Level). Mỗi trình độ bao gồm nhiều môn học có liên quan đến lĩnh vực giáo dục, như Văn học, Toán học, Ngữ văn, Kỹ năng sống, Tự nhiên và Xã hội, Nghệ thuật, Thể thao, Văn hóa và Tin học.  Chương trình DP của trường Quốc tế Bắc Mỹ được chia thành 3 trình độ: Học trên lớp, Chuyến đi trải nghiệm và Chuyến đi khám phá. Mỗi trình độ bao gồm nhiều hoạt động khác nhau như các buổi học trải nghiệm, chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn v.v.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Các môn học trong chương trình DP được chia thành trình độ nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình DP của Trường Quốc tế Bắc Mỹ bao gồm các nhóm môn học như ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế, được chia thành trình độ cao hoặc trình độ chuẩn. Ngoài ra, chương trình còn được chia thành 3 trình độ: Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP), mỗi trình độ bao gồm nhiều môn học có liên quan đến lĩnh vực giáo dục.

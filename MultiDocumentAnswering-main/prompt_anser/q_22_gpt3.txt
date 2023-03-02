@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Phòng Công nghệ thông tin của trường SNA Him Lam đã được trang bị đầy đủ các thiết bị công nghệ hiện đại, bao gồm cả máy tính và các thiết bị liên quan. Hiện tại, trường có hơn 100 máy tính được sử dụng trong các lớp học và các hoạt động ngoại khóa.  Phòng Công nghệ thông tin của trường SNA Him Lam có hơn 20 máy tính để hỗ trợ các học sinh với việc học tập và làm việc. Máy tính được trang bị đầy đủ phần mềm và các thiết bị cần thiết như bàn phím, chuột, màn hình, loa và đầu đọc.  Trường SNA Him Lam có tổng cộng 40 máy tính trong Phòng Công nghệ thông tin của trường.  Phòng Công nghệ thông tin của trường SNA Him Lam có hơn 30 máy tính được trang bị tiện nghi hiện đại để học sinh sử dụng.  Phòng Công nghệ thông tin của trường SNA Him Lam không có máy tính. Tuy nhiên, trường cung cấp nền tảng lý tưởng cho các bé học từ 7 tuổi, bao gồm các chương trình PYP, MYP và DP, để học sinh có thể phát triển kỹ năng xã hội, tư duy quốc tế, khả năng hoạt động hiệu quả trong thế giới và những phẩm chất cần thiết cho những công dân trẻ tuổi.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Số máy tính trong Phòng Công nghệ thông tin của trường SNA Him Lam?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA Him Lam có tổng cộng 40 máy tính trong Phòng Công nghệ thông tin, trong đó có hơn 100 máy tính được sử dụng trong các lớp học và các hoạt động ngoại khóa, hơn 20 máy tính để hỗ trợ học sinh với việc học tập và làm việc, và hơn 30 máy tính được trang bị tiện nghi hiện đại.

@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Tổng diện tích cơ sở của trường SNA Him Lam là 10.000m2, bao gồm 100 phòng gồm 73 phòng học và 17 phòng chức năng, bao gồm phòng thí nghiệm Vật lý, phòng thí nghiệm Hóa học và Sinh học, Phòng Công nghệ thông tin, Thư viện, Phòng Mỹ thuật, Bể bơi, Phòng Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng Golf 3D, Phòng Y tế.  Tổng diện tích cơ sở của trường SNA Him Lam là khoảng 8,4ha, bao gồm các phòng học độc lập, các đồ dùng cá nhân (vỏ nệm, vỏ gối, chăn), phòng ăn, phòng khách, khu vực chơi cờ, bóng bàn, cờ vua, hồ bơi, sân bóng rổ, sân nhảy dây, sân chạy bộ, các giám sát viên nhiều kinh nghiệm, các ba mẹ nội trú có kiến thức và hiểu biết tốt về sức khỏe và tinh thần tâm lý, lịch trình chi tiết, các hoạt động chủ đề hàng tuần, hàng tháng, các sự kiện Giáng sinh, Đêm giao thừa, Tiệc tất niên, dịch vụ y tế 24/24, các giáo viên hỗ trợ học tập, và các dịch vụ tuyển sinh.  Trường SNA Him Lam có diện tích cơ sở là 6.000 mét vuông, bao gồm các phòng học, sân thể thao, khu vực giải trí, các địa điểm có liên quan đến nghề nghiệp và nhiều hơn nữa.  Tổng diện tích cơ sở của trường SNA Him Lam là 1.460m2, bao gồm 24 phòng (bao gồm phòng khách, phòng ăn, bếp, phòng giặt, phòng tắm, phòng ngủ), phòng khách rộng rãi được trang bị tiện nghi hiện đại, phòng giặt hiện đại và các phòng ngủ được trang bị tốt với giường tầng, nệm, gối, chăn, tủ, bàn, ghế và tủ lạnh.  Tổng diện tích cơ sở của trường SNA Him Lam là 1,7 ha, cung cấp một khung học tập để hỗ trợ các chương trình giáo dục từ PYP đến MYP và DP.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Tổng diện tích cơ sở của trường SNA Him Lam?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA Him Lam có diện tích cơ sở là 1.7 ha, bao gồm 24 phòng học, sân thể thao, khu vực giải trí, phòng khách, phòng ăn, bếp, phòng giặt, phòng tắm, phòng ngủ, phòng thí nghiệm Vật lý, Hóa học và Sinh học, Công nghệ thông tin, Thư viện, Mỹ thuật, Bể bơi, Âm nhạc, Nhà thi đấu đa năng, Golf 3D, Y tế và các dịch vụ tuyển sinh.

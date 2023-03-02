@@ -1,0 +1,10 @@
+Sử dụng đoạn văn sau để cung cấp một câu trả lời chi tiết cho câu hỏi:
+
+
+CÂU HỎI: <<QUERY>>
+
+
+ĐOẠN VĂN: <<PASSAGE>>
+
+
+CÂU TRẢ LỜI:

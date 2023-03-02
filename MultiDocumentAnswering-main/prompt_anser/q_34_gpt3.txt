@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trong năm thứ 4 và 5, học sinh có thể chọn được Chương trình PYP (Primary Years Programme) của Trường Quốc tế Bắc Mỹ, một chương trình được thiết kế cho học sinh từ 3-12 tuổi để cung cấp kiến thức, khái niệm, kỹ năng, các thuộc tính cá nhân và khả năng hành động.  Trong năm thứ 4 và 5, học sinh có thể chọn từ ba chương trình học tập chính của Trường Quốc tế Bắc Mỹ - SNA: chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP), và một chương trình ngoại khóa phong phú, mang đến cơ hội thực sự cho học sinh để nâng cao các kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập.  Trong năm thứ 4 và 5, học sinh có thể chọn từ 2 đến 4 khóa học, bao gồm CLB Bóng đá, CLB Bóng rổ, CLB Dance, và các chuyến đi trải nghiệm.  Trong năm thứ 4 và 5, học sinh có thể chọn từ sáu trong số tám nhóm môn học của chương trình MYP, bao gồm thụ đắc ngôn ngữ, ngôn ngữ và văn học, cá nhân và xã hội, khoa học, toán học, nghệ thuật, giáo dục thể chất, sức khỏe và thiết kế. Học sinh cũng có thể chọn một môn học trong mỗi năm nhóm môn của chương trình DP, bao gồm ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học, và một môn học trong nhóm môn nghệ thuật hoặc học thêm môn học thứ hai trong các nhóm môn khác.  Trong năm thứ 4 và 5, học sinh có thể chọn từ nhiều khóa học khác nhau, bao gồm các môn học trong phạm vi chương trình của trường, cũng như các hoạt động vui chơi và giải trí, thể thao, các hoạt động của tổ chức và các sự kiện trong khu nội trú. Họ cũng sẽ được hỗ trợ bởi các giám sát viên nhiều kinh nghiệm và các dịch vụ y tế 24/24.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trong năm thứ 4 và 5, học sinh có thể chọn bao nhiêu khóa học?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trong năm thứ 4 và 5, học sinh có thể chọn từ ba chương trình học tập chính của Trường Quốc tế Bắc Mỹ, một chương trình ngoại khóa, 2 đến 4 khóa học bao gồm các hoạt động thể thao và vui chơi, sáu trong tám nhóm môn học của chương trình MYP, và một môn học trong mỗi nhóm môn của chương trình DP. Họ cũng sẽ được hỗ trợ bởi các giám sát viên nhiều kinh nghiệm và các dịch vụ y tế 24/24. Câu trả lời là học sinh có thể chọn từ 2 đến 4 khóa học.

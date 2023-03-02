@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trọng tâm của chương trình IB tại Trường Quốc Tế Bắc Mỹ là trang bị học sinh những kỹ năng của công dân toàn cầu thế kỉ 21 như khả năng giải quyết vấn đề, tư duy phản biện, lãnh đạo, giao tiếp hiệu quả, trách nhiệm công dân và khả năng chấp nhận rủi ro. Đồng thời, SNA cũng đặt nền tảng cho học sinh để tham gia các hoạt động ngoại khóa như nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và được trang bị những kỹ năng phù hợp cho hành trình học tập, khởi dựng sự nghiệp và cuộc sống sau này.  Trọng tâm của chương trình IB là phát triển trí tuệ, xã hội, cảm xúc và thể chất của người học, bằng cách cung cấp kiến thức rộng, hiểu biết sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học. Học sinh cũng có thể chọn một môn trong nhóm môn nghệ thuật hoặc học thêm môn học thứ hai trong các nhóm môn khác. Học sinh cần học ít nhất ba môn học nhưng không quá bốn môn ở trình độ cao, trong khi các môn còn lại được học ở trình độ chuẩn.  Trọng tâm của chương trình IB là cung cấp kiến thức, khái niệm, kỹ năng, các thuộc tính cá nhân và khả năng hành động mà tất cả những học sinh nhỏ tuổi cần trang bị để thành công, ngay bây giờ và cả tương lai. Chương trình cũng cung cấp cơ sở vật chất, thư viện, phòng thí nghiệm và các khu vực chức năng khác nhằm tạo điều kiện tốt nhất cho sự phát triển toàn diện ở các khía cạnh như thể thao, sáng tạo, nghệ thuật, công nghệ.  Trọng tâm của chương trình IB là phát triển kỹ năng học tập của học sinh qua các hoạt động trải nghiệm bao gồm các chuyến đi học tập, tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn và các hoạt động từ thiện tại các trại trẻ mồ côi hoặc viện dưỡng lão. Chương trình cũng cung cấp môi trường nội trú với tiêu chuẩn quốc tế cho học sinh sống ở ngoài TP.HCM và các tiện nghi tốt để học sinh có thể tự học và thư giãn.  Trọng tâm của chương trình IB là xây dựng hệ sinh thái giáo dục sáng tạo, toàn diện và đẳng cấp để đào tạo thế hệ học sinh - sinh viên có trí tuệ, tâm hồn, thể lực và kỹ năng vượt trội để sống hạnh phúc, hội nhập quốc tế và trở thành công dân toàn cầu có trách nhiệm.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trọng tâm của chương trình IB là gì?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình IB tại Trường Quốc Tế Bắc Mỹ cung cấp kiến thức, kỹ năng và thuộc tính cá nhân để trang bị học sinh cho việc thành công hiện tại và tương lai. Trọng tâm của chương trình là phát triển trí tuệ, xã hội, cảm xúc và thể chất của người học, cung cấp cơ sở vật chất, tạo điều kiện tốt nhất cho sự phát triển toàn diện và xây dựng hệ sinh thái giáo dục.

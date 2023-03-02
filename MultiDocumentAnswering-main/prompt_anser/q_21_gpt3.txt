@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Phòng thí nghiệm Vật lý của SNA Him Lam được trang bị theo tiêu chuẩn Chương trình học Quốc tế, đáp ứng tất cả các yêu cầu về vật liệu cùng tiêu chuẩn an toàn phù hợp. Phòng thí nghiệm được trang bị với các thiết bị điện tử hiện đại và cung cấp một môi trường an toàn và tích cực cho các hoạt động nghiên cứu trong môi trường vật lý ứng dụng hiện đại.  Phòng thí nghiệm Vật lý được trang bị theo tiêu chuẩn cao của Hội đồng các Trường Quốc tế (CIS) và sẽ được công nhận bởi WASC - Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ. Đây là minh chứng rõ nét cho việc SNA không ngừng phấn đấu để duy trì và phát triển tiêu chuẩn chất lượng tốt nhất trong mọi khía cạnh của Giáo dục Quốc tế.  Phòng thí nghiệm Vật lý của Tập đoàn giáo dục Nguyễn Hoàng được trang bị theo tiêu chuẩn cao cấp với các đồ dùng cá nhân, phòng ăn rộng rãi, phòng khách lớn và ấm cúng, không gian giải trí, dịch vụ y tế 24/24, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện trong khu nội trú như Giáng sinh, Đêm giao thừa và Tiệc tất niên, có giáo viên để hỗ trợ học sinh học tập và luôn có lịch trình chi tiết để đảm bảo tất cả học sinh phát triển lối sống cân bằng giữa học tập và thư giãn.  Phòng thí nghiệm Vật lý được trang bị theo tiêu chuẩn của chương trình Quốc tế Bắc Mỹ, bao gồm cả các chương trình Primary Years Programme (PYP), Middle Years Programme (MYP) và Diploma Programme (DP). PYP cung cấp nền tảng để trẻ em trở thành những người thành công và không ngừng học hỏi bằng việc phát triển: sự độc lập về kỹ năng xã hội và cảm xúc. MYP nhấn mạnh những thử thách trí tuệ, khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. DP là một chương trình giáo dục cân bằng và thách thức về mặt học thuật, các kỳ thi cuối cấp sẽ trang bị cho học sinh trong độ tuổi từ 16 đến 19 thành công ở môi trường Đại học cũng như trong cuộc sống tương lai.  Phòng thí nghiệm Vật lý được trang bị theo tiêu chuẩn quốc tế bao gồm các thiết bị hiện đại, các tủ lạnh, máy tính, TV, sách/tạp chí, bàn ghế, ghế dài, giường tầng, nệm, gối, chăn, tủ và phòng giặt để đáp ứng nhu cầu học tập của học sinh.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Phòng thí nghiệm Vật lý được trang bị theo tiêu chuẩn nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Phòng thí nghiệm Vật lý của Tập đoàn giáo dục Nguyễn Hoàng được trang bị theo tiêu chuẩn của Chương trình học Quốc tế Bắc Mỹ bao gồm Primary Years Programme (PYP), Middle Years Programme (MYP) và Diploma Programme (DP).

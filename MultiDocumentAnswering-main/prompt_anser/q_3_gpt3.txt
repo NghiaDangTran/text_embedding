@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú để trang bị học sinh với những kỹ năng nghệ thuật, văn hóa, thể thao, sáng tạo, dã ngoại và góp phần trang bị những kỹ năng phù hợp cho hành trình học tập, khởi dựng sự nghiệp cũng như cho cuộc sống sau này của các em. Đồng thời, chương trình này cũng cung cấp cơ hội cho học sinh để nâng cao các kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú để hỗ trợ học sinh trong việc phát triển các kỹ năng, thuộc tính cá nhân, cũng như khái niệm và kiến thức cần thiết để thành công trong hiện tại và tương lai. Chương trình ngoại khóa bao gồm nhiều khu vực chức năng như thể thao, sáng tạo, nghệ thuật, công nghệ, thư viện, phòng thí nghiệm, phòng công nghệ thông tin, phòng mỹ thuật và phòng y tế. Trường cũng là ứng viên cho chương trình Tú tài Quốc tế Khối Tiểu học (PYP), được thiết kế để hỗ trợ học sinh trong việc nghiên cứu và truy vấn.  Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú để hỗ trợ học sinh trong việc học tập và sống cân bằng giữa học tập và thư giãn. Khu nội trú của trường cung cấp các đồ dùng cá nhân, phòng ăn rộng rãi, phòng khách lớn và ấm cúng, không gian giải trí, các môn thể thao, giám sát viên nhiều kinh nghiệm, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, dịch vụ y tế 24/24, giáo viên hỗ trợ học tập vào buổi tối, chuyến tham quan trường và các chính sách tuyển sinh.  Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú cho học sinh bao gồm chương trình PYP (Primary Years Programme), MYP (Middle Years Programme) và DP (Diploma Programme). Chương trình PYP nhằm mục đích phát triển sự độc lập về kỹ năng xã hội và cảm xúc của học sinh bằng cách học thêm một ngôn ngữ từ 7 tuổi, MYP bao gồm tám nhóm chủ đề và cung cấp cho học sinh sự linh hoạt cao hơn trong lựa chọn môn học, và DP bao gồm các nhóm môn học rộng và sâu sắc về ngôn ngữ và văn học, cá nhân và xã hội, khoa học và toán học.  Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú cho học sinh bao gồm các lớp môn thể thao như bóng đá, bóng rổ, nhảy, và các buổi học trải nghiệm và chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn và từ thiện. Học sinh cũng sống ở một khu nội trú có trang bị tiện nghi hiện đại để học tập và thư giãn.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú để làm gì cho học sinh?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA cung cấp chương trình ngoại khóa phong phú để hỗ trợ học sinh trong việc phát triển các kỹ năng, thuộc tính cá nhân, cũng như khái niệm và kiến thức cần thiết để thành công trong hiện tại và tương lai. Chương trình bao gồm các lớp môn thể thao, chương trình PYP, MYP và DP, các đồ dùng cá nhân, giám sát viên nhiều kinh nghiệm, hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên.

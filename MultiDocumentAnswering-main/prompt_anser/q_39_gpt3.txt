@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+SNA hỗ trợ ba chương trình học tập chính của IB, bao gồm Chương trình tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP), và còn cung cấp một chương trình ngoại khóa phong phú để trang bị học sinh các kỹ năng thích hợp cho hành trình học tập và cuộc sống sau này.  Chương trình Ngôn ngữ hỗ trợ của SNA hỗ trợ hơn 10 ngôn ngữ khác nhau bao gồm tiếng Anh, Pháp, Đức, Ý, Nhật, Hàn, Trung Quốc và các ngôn ngữ khác.  Tập đoàn Giáo dục Nguyễn Hoàng hỗ trợ các ngôn ngữ quốc tế như Tiếng Anh, Pháp, Nhật, Hàn Quốc, Trung Quốc và Tiếng Việt.  Khu nội trình của SNA hỗ trợ nhiều ngôn ngữ quốc tế, bao gồm Tiếng Anh, Tiếng Pháp, Tiếng Đức, Tiếng Trung Quốc, Tiếng Nhật, Tiếng Hàn Quốc, Tiếng Nga, Tiếng Ả Rập và Tiếng Ý.  Chương trình Ngôn ngữ hỗ trợ của SNA hỗ trợ tiếng Việt làm ngôn ngữ chính, và các khóa học của PYP, MYP và DP đều đề cập đến nhiều ngôn ngữ khác nhau, như tiếng Anh, tiếng Pháp, tiếng Đức và tiếng Nga.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Chương trình Ngôn ngữ hỗ trợ của SNA hỗ trợ bao nhiêu ngôn ngữ?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+SNA hỗ trợ hơn 10 ngôn ngữ quốc tế, bao gồm Tiếng Anh, Pháp, Đức, Ý, Nhật, Hàn, Trung Quốc, Tiếng Việt, Nga, Ả Rập và các ngôn ngữ khác.

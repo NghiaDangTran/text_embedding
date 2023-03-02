@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường SNA Him Lam có các khu vực chức năng bao gồm: phòng thí nghiệm Vật lý, phòng thí nghiệm Hóa học và Sinh học, Phòng Công nghệ thông tin, Thư viện, Phòng Mỹ thuật, Bể bơi rộng 25m với 6 làn, Phòng Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng Golf 3D, Phòng Y tế. Ngoài ra, trường còn có chương trình PYP Primary Years Programme (PYP) được thiết kế cho học sinh từ 3-12 tuổi.  Trường SNA Him Lam có những khu vực chức năng bao gồm chương trình Tú Tài Quốc Tế (IB) bao gồm Chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP); chương trình ngoại khóa phong phú; thành viên của Hội đồng các Trường Quốc tế (CIS); và đang trong quá trình hoàn thành những bước cuối cùng của báo cáo đánh giá để được công nhận bởi WASC - Hiệp hội các trường Đại học và Cao đẳng miền Tây Hoa Kỳ.  Trường SNA Him Lam có những khu vực chức năng bao gồm các đồ dùng cá nhân như vỏ nệm, vỏ gối, chăn; phòng ăn rộng rãi để nấu nướng, chia sẻ các buổi ăn cuối tuần cùng bạn bè và giáo viên; phòng khách lớn và ấm cúng để học sinh gặp gỡ gia đình, bạn bè hoặc khách của mình; khu vực chơi cờ, bóng bàn, cờ vua; các môn thể thao khác như bơi lội, cầu lông, bóng rổ, nhảy dây, chạy bộ; giám sát viên nhiều kinh nghiệm cho từng nhóm học sinh; dịch vụ y tế 24/24; và nhiều hoạt động chủ đề hàng tuần và hàng tháng.  Trường SNA Him Lam có những khu vực chức năng như CLB Bóng đá, CLB Bóng rổ, CLB Dance, buổi học trải nghiệm, chuyến đi trải nghiệm, và khu nội trú. Các khu vực này cung cấp các hoạt động giáo dục, học tập, và giải trí có ý nghĩa cho học sinh, bao gồm các hoạt động như làm việc nhóm, sự tự tin, quyết đoán, chính xác, tài năng được trau dồi, kỹ năng giao tiếp, tư duy phân tích và phản biện, kỹ năng sinh tồn, và nhận thức về cộng đồng.  Trường SNA Him Lam có chương trình PYP, MYP và DP. Chương trình PYP cung cấp một nền tảng để trẻ em trở thành những người thành công bằng cách phát triển các kỹ năng xã hội và cảm xúc, tư duy quốc tế và khả năng hoạt động hiệu quả trong thế giới. Chương trình MYP nhấn mạnh những thử thách trí tuệ và khuyến khích học sinh có mối liên hệ giữa các môn học với thực tiễn đời sống. Chương trình DP bao gồm tám nhóm chủ đề, mỗi học sinh cần học ít nhất ba môn học nhưng không quá bốn môn ở trình độ cao.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường SNA Him Lam có những khu vực chức năng nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường SNA Him Lam có các khu vực chức năng bao gồm phòng thí nghiệm Vật lý, Hóa học và Sinh học, Công nghệ thông tin, Thư viện, Mỹ thuật, Bể bơi, Âm nhạc, Nhà thi đấu đa năng, Phòng ăn, Sân bóng đá, Phòng Golf 3D, Phòng Y tế, chương trình PYP, IB, CIS, WASC, đồ dùng cá nhân, phòng khách, khu vực chơi cờ, thể thao, giám sát viên, dịch vụ y tế, các hoạt động hàng tuần và hàng tháng, CLB Bóng đá, Bóng rổ, Dance, buổi học trải nghiệm, chuyến đi trải nghiệm, và khu nội trú.

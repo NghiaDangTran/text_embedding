@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình Tú tài Quốc tế (DP) của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện bằng cách cung cấp một môi trường học tập mà ở đó học sinh là trung tâm, nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Chương trình PYP Primary Years Programme của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện thông qua truy vấn, nghiên cứu trong và ngoài các môn học, khám phá câu hỏi về các chủ đề toàn cầu, và sử dụng các thiết bị điện tử hiện đại.  Chương trình Tú tài Quốc tế IB của Tập đoàn Giáo dục Nguyễn Hoàng khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện bằng cách cung cấp nhiều cơ hội để học sinh tham gia các hoạt động chủ đề hàng tuần và hàng tháng, tổ chức các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, và cung cấp dịch vụ hỗ trợ học tập vào buổi tối.  Chương trình Tú tài Quốc tế IB của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phân tích, phản biện thông qua các buổi học trải nghiệm và các chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, v.v.  Chương trình Tú tài Quốc tế Khối Trung học (MYP) của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện bằng cách cung cấp một khung học tập khuyến khích học sinh trở thành những nhà sáng tạo, với tư duy phản biện và khả năng phản xạ, nhấn mạnh những thử thách trí tuệ, cũng như cung cấp khóa học từ sáu trong số tám nhóm môn học trong năm thứ 4 và 5.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Phần nào trong ba Chương trình Tú tài Quốc tế IB của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình Tú tài Quốc tế IB của SNA khuyến khích học sinh phát triển không chỉ các kỹ năng thực tế mà còn là tư duy sáng tạo và tư duy phản biện thông qua truy vấn, nghiên cứu trong và ngoài các môn học, khám phá câu hỏi về các chủ đề toàn cầu, các hoạt động chủ đề hàng tuần và hàng tháng, các sự kiện như Giáng sinh, Đêm giao thừa và Tiệc tất niên, và dịch vụ hỗ trợ học tập vào buổi tối, các buổi học trải nghiệm, chuyến đi tham quan, khám phá thiên nhiên, rèn luyện thể chất, học về kỹ năng sinh tồn, và các khóa học từ sáu trong số tám nhóm môn học trong năm thứ 4 và 5.

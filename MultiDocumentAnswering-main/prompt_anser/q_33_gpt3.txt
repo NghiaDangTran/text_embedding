@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Chương trình DP bao gồm 8 nhóm chủ đề: Thụ đắc ngôn ngữ, Ngôn ngữ và Văn học, Cá nhân và Xã hội, Khoa học, Toán học, Nghệ thuật, Giáo dục Thể chất và Sức khỏe và Thiết kế. Học sinh phải chọn một môn học trong mỗi năm nhóm môn, trong khi một số môn học còn được học thêm ở trình độ cao hoặc trình độ chuẩn.  Chương trình Tú Tài Quốc Tế (IB) của Trường Quốc tế Bắc Mỹ - SNA bao gồm ba nhóm môn học chính: Chương trình Tiểu học (PYP), Chương trình Trung học (MYP) và Chương trình Tú tài Quốc tế (DP).  Chương trình DP bao gồm 6 nhóm môn học chính là: Vật lý, Hóa học và Sinh học, Công nghệ thông tin, Mỹ thuật, Thư viện và PYP PRIMARY YEARS PROGRAMME.  Chương trình Đại học Quốc tế Nguyễn Hoàng (DP) bao gồm 8 nhóm môn học chính: Toán học, Vật lý, Hóa học, Sinh học, Tiếng Anh, Ngữ văn, Lịch sử và Địa lý.  Chương trình DP bao gồm 6 nhóm môn học: Bóng đá, Bóng rổ, Dance, Trải nghiệm, Chuyến đi trải nghiệm và Khu nội trú.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Có bao nhiêu nhóm môn học trong chương trình DP?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Chương trình DP bao gồm 8 nhóm môn học chính là: Thụ đắc ngôn ngữ, Ngôn ngữ và Văn học, Cá nhân và Xã hội, Khoa học, Toán học, Nghệ thuật, Giáo dục Thể chất và Sức khỏe và Thiết kế, cũng như 6 nhóm môn học bao gồm: Bóng đá, Bóng rổ, Dance, Trải nghiệm, Chuyến đi trải nghiệm và Khu nội trú.

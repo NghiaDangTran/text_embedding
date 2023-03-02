@@ -1,0 +1,22 @@
+PROMPT:
+
+Viết tóm tắt chi tiết về nội dung sau đây:
+
+
+Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của kỹ năng lãnh đạo, kỹ năng giao tiếp hiệu quả, trách nhiệm công dân, tư duy phản biện và khả năng chấp nhận rủi ro.  Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của kỹ năng giao tiếp, liên lạc giữa Nhà trường và Phụ huynh, công tác nghiên cứu, kỹ năng sáng tạo, nghệ thuật, công nghệ, thể thao và các kỹ năng học tập cần thiết cho thành công của học sinh. Trường cũng cung cấp chương trình PYP Primary Years Programme để đáp ứng các nhu cầu của học sinh.  Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của kỹ năng sống cân bằng, bao gồm cả kỹ năng giao tiếp, học tập, và thể thao. Khu nội trú cung cấp môi trường yên tĩnh và an toàn cho học sinh, cùng với sự hỗ trợ và chăm sóc từ giám sát viên có kinh nghiệm. Các hoạt động hàng tuần và hàng tháng cũng được tổ chức để nâng cao kỹ năng sống của học sinh.  Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của các kỹ năng như làm việc nhóm, sự tự tin, quyết đoán, chính xác, tài năng được trau đồi, tinh thần không ngừng học hỏi, phát huy tính trách nhiệm của công dân toàn cầu, phát triển kỹ năng giao tiếp, phát triển tư duy phân tích, phản biện, kỹ năng sinh tồn, xây dựng đội ngũ, phát triển cá nhân, hiểu về văn hóa, lịch sử, địa lý, rèn luyện thể chất, nhận thức về cộng đồng và tôn trọng thiên nhiên.  Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của kỹ năng xã hội, tư duy quốc tế, thái độ, cách sắp xếp việc học, kỹ năng giao tiếp, hiểu biết đa văn hóa, tham gia vào các vấn đề toàn cầu, trí tuệ, xã hội, cảm xúc và thể chất.
+
+
+CÂU HỎI:
+<<QUESTION_START>>
+
+ Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của kỹ năng nào?
+<<QUESTION_END>>
+
+
+TÓM TẮC:
+
+==========
+
+RESPONSE:
+
+Trường Quốc tế Bắc Mỹ - SNA nhấn mạnh tầm quan trọng của các kỹ năng lãnh đạo, giao tiếp, sáng tạo, thể thao, học tập, sống cân bằng, xã hội, tư duy quốc tế, thái độ, đa văn hóa và thể chất.
